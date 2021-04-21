@@ -1,0 +1,9 @@
+{
+    "major": 0,
+    "minor": 0,
+    "patch": 0,
+    "updatePageUrl": {
+        "android": "https://google.com",
+        "iOS": "https://google.com"
+    }
+}
