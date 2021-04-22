@@ -3,6 +3,7 @@
         "locale": "en",
         "name": "Haskell",
         "type": "Programming Language",
+        "paradigm": "Purely Functional",
         "creators": [
             {
                 "fullName": "Paul Hudak",
@@ -37,6 +38,7 @@
         "locale": "pt",
         "name": "Haskell",
         "type": "Linguagem de Programação",
+        "paradigm": "Puro Funcional",
         "creators": [
             {
                 "fullName": "Paul Hudak",
