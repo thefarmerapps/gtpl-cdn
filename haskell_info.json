@@ -1,0 +1,70 @@
+[
+    {
+        "locale": "en",
+        "name": "Haskell",
+        "type": "Programming Language",
+        "creators": [
+            {
+                "fullName": "Paul Hudak",
+                "homepageUrl": "https://paulhudak.com"
+            },
+            {
+                "fullName": "Simon Peyton Jones",
+                "homepageUrl": "https://simonpeytonjones"
+            }
+        ],
+        "firstAppearance": 1619046643,
+        "commonUseCases": [
+            "Teaching",
+            "Research",
+            "Math"
+        ],
+        "filenameExtensions": [
+            ".hs",
+            ".lhs"
+        ],
+        "description": "Haskell is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation [1].",
+        "sources": [
+            {
+                "title": "Haskell (Programming Language)",
+                "provider": "Wikipedia.org",
+                "url": "https://wikipedia.org",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "locale": "pt",
+        "name": "Haskell",
+        "type": "Linguagem de Programação",
+        "creators": [
+            {
+                "fullName": "Paul Hudak",
+                "homepageUrl": "https://paulhudak.com"
+            },
+            {
+                "fullName": "Simon Peyton Jones",
+                "homepageUrl": "https://simonpeytonjones"
+            }
+        ],
+        "firstAppearance": 1619046643,
+        "commonUseCases": [
+            "Ensino",
+            "Investigação",
+            "Matemática"
+        ],
+        "filenameExtensions": [
+            ".hs",
+            ".lhs"
+        ],
+        "description": "Haskell is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation [1].",
+        "sources": [
+            {
+                "title": "Haskell (Programming Language)",
+                "provider": "Wikipedia.org",
+                "url": "https://wikipedia.org",
+                "number": 1
+            }
+        ]
+    }
+]
