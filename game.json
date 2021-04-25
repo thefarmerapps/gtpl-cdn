@@ -2111,50 +2111,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 0,
                     "game": [
                         {
-                            "answer": 177,
+                            "answer": 332,
                             "options": [
-                                354,
-                                175,
-                                44,
-                                177
+                                482,
+                                0,
+                                332,
+                                127
                             ]
                         },
                         {
-                            "answer": 354,
+                            "answer": 10,
                             "options": [
-                                324,
-                                323,
-                                354,
-                                42
+                                175,
+                                10,
+                                458,
+                                275
                             ]
                         },
                         {
                             "answer": 332,
                             "options": [
-                                44,
                                 332,
-                                10,
-                                394
+                                0,
+                                327,
+                                38
                             ]
                         },
                         {
-                            "answer": 442,
+                            "answer": 51,
                             "options": [
-                                10,
-                                10,
-                                442,
-                                12
-                            ]
-                        },
-                        {
-                            "answer": 175,
-                            "options": [
+                                51,
                                 175,
-                                136,
-                                332,
-                                10
+                                45,
+                                190
+                            ]
+                        },
+                        {
+                            "answer": 274,
+                            "options": [
+                                190,
+                                323,
+                                274,
+                                81
                             ]
                         }
                     ]
@@ -2165,50 +2166,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 0,
                     "game": [
                         {
-                            "answer": 394,
+                            "answer": 12,
+                            "options": [
+                                34,
+                                12,
+                                442,
+                                522
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                442,
+                                190,
+                                482,
+                                401
+                            ]
+                        },
+                        {
+                            "answer": 81,
+                            "options": [
+                                81,
+                                97,
+                                4,
+                                224
+                            ]
+                        },
+                        {
+                            "answer": 320,
                             "options": [
                                 4,
-                                394,
-                                457,
-                                175
-                            ]
-                        },
-                        {
-                            "answer": 354,
-                            "options": [
-                                323,
-                                354,
-                                12,
-                                324
-                            ]
-                        },
-                        {
-                            "answer": 42,
-                            "options": [
-                                42,
-                                10,
-                                10,
+                                197,
+                                291,
                                 320
                             ]
                         },
                         {
-                            "answer": 177,
+                            "answer": 332,
                             "options": [
-                                136,
-                                136,
-                                177,
-                                324
-                            ]
-                        },
-                        {
-                            "answer": 127,
-                            "options": [
-                                457,
-                                44,
-                                127,
-                                136
+                                354,
+                                235,
+                                332,
+                                341
                             ]
                         }
                     ]
@@ -2219,50 +2221,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 1,
                     "game": [
                         {
-                            "answer": 235,
+                            "answer": 401,
                             "options": [
-                                332,
-                                177,
-                                235,
-                                175
+                                522,
+                                327,
+                                401,
+                                127
                             ]
                         },
                         {
-                            "answer": 332,
+                            "answer": 409,
                             "options": [
-                                323,
-                                332,
-                                12,
-                                136
+                                465,
+                                274,
+                                320,
+                                409
                             ]
                         },
                         {
-                            "answer": 127,
+                            "answer": 224,
                             "options": [
                                 127,
-                                12,
-                                136,
-                                442
+                                224,
+                                327,
+                                0
                             ]
                         },
                         {
-                            "answer": 4,
+                            "answer": 341,
                             "options": [
-                                177,
-                                442,
+                                341,
                                 4,
-                                442
+                                457,
+                                235
                             ]
                         },
                         {
-                            "answer": 136,
+                            "answer": 399,
                             "options": [
-                                320,
-                                42,
-                                175,
-                                136
+                                4,
+                                399,
+                                522,
+                                127
                             ]
                         }
                     ]
@@ -2273,50 +2276,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 1,
                     "game": [
                         {
-                            "answer": 127,
+                            "answer": 458,
                             "options": [
-                                442,
-                                127,
-                                12,
-                                332
+                                458,
+                                10,
+                                79,
+                                399
                             ]
                         },
                         {
-                            "answer": 175,
+                            "answer": 354,
                             "options": [
-                                12,
-                                175,
-                                136,
-                                136
+                                224,
+                                45,
+                                354,
+                                44
+                            ]
+                        },
+                        {
+                            "answer": 10,
+                            "options": [
+                                320,
+                                235,
+                                482,
+                                10
+                            ]
+                        },
+                        {
+                            "answer": 42,
+                            "options": [
+                                97,
+                                34,
+                                42,
+                                274
                             ]
                         },
                         {
                             "answer": 332,
                             "options": [
-                                235,
-                                4,
+                                12,
+                                51,
                                 332,
-                                324
-                            ]
-                        },
-                        {
-                            "answer": 44,
-                            "options": [
-                                97,
-                                44,
-                                394,
-                                42
-                            ]
-                        },
-                        {
-                            "answer": 323,
-                            "options": [
-                                323,
-                                10,
-                                457,
-                                235
+                                327
                             ]
                         }
                     ]
@@ -2327,50 +2331,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 3,
                     "game": [
                         {
-                            "answer": 323,
+                            "answer": 81,
                             "options": [
-                                136,
-                                42,
-                                323,
-                                482
+                                354,
+                                79,
+                                81,
+                                274
                             ]
                         },
                         {
-                            "answer": 482,
+                            "answer": 275,
                             "options": [
-                                482,
-                                394,
-                                442,
-                                457
+                                197,
+                                275,
+                                345,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 12,
+                            "options": [
+                                175,
+                                332,
+                                224,
+                                12
                             ]
                         },
                         {
                             "answer": 136,
                             "options": [
-                                127,
-                                442,
-                                175,
-                                136
+                                97,
+                                354,
+                                136,
+                                394
                             ]
                         },
                         {
-                            "answer": 457,
+                            "answer": 323,
                             "options": [
-                                127,
-                                457,
-                                175,
-                                177
-                            ]
-                        },
-                        {
-                            "answer": 332,
-                            "options": [
-                                127,
-                                127,
-                                127,
-                                332
+                                291,
+                                51,
+                                332,
+                                323
                             ]
                         }
                     ]
@@ -2381,50 +2386,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 4,
                     "game": [
                         {
-                            "answer": 136,
+                            "answer": 51,
                             "options": [
-                                44,
-                                136,
-                                442,
-                                4
+                                458,
+                                51,
+                                354,
+                                235
                             ]
                         },
                         {
-                            "answer": 4,
+                            "answer": 224,
                             "options": [
-                                442,
+                                224,
+                                79,
+                                354,
+                                274
+                            ]
+                        },
+                        {
+                            "answer": 399,
+                            "options": [
                                 457,
-                                97,
-                                4
+                                197,
+                                399,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 291,
+                            "options": [
+                                291,
+                                175,
+                                323,
+                                324
                             ]
                         },
                         {
                             "answer": 354,
                             "options": [
-                                12,
-                                394,
-                                10,
-                                354
-                            ]
-                        },
-                        {
-                            "answer": 177,
-                            "options": [
-                                44,
-                                177,
-                                323,
-                                332
-                            ]
-                        },
-                        {
-                            "answer": 127,
-                            "options": [
-                                324,
-                                482,
-                                442,
-                                127
+                                341,
+                                354,
+                                81,
+                                190
                             ]
                         }
                     ]
@@ -2435,50 +2441,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 5,
                     "game": [
                         {
                             "answer": 324,
                             "options": [
-                                177,
-                                42,
                                 324,
-                                332
+                                235,
+                                458,
+                                97
                             ]
                         },
                         {
-                            "answer": 394,
+                            "answer": 522,
                             "options": [
-                                10,
-                                44,
-                                394,
-                                177
+                                522,
+                                275,
+                                127,
+                                323
                             ]
                         },
                         {
-                            "answer": 136,
+                            "answer": 175,
                             "options": [
-                                177,
-                                42,
-                                136,
-                                332
+                                0,
+                                275,
+                                442,
+                                175
                             ]
                         },
                         {
-                            "answer": 332,
+                            "answer": 51,
                             "options": [
                                 457,
+                                465,
+                                51,
+                                291
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
                                 332,
-                                177,
-                                127
-                            ]
-                        },
-                        {
-                            "answer": 10,
-                            "options": [
-                                177,
-                                457,
-                                4,
-                                10
+                                482,
+                                97,
+                                224
                             ]
                         }
                     ]
@@ -2489,50 +2496,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 5,
                     "game": [
                         {
-                            "answer": 127,
+                            "answer": 175,
                             "options": [
-                                10,
-                                12,
                                 127,
-                                332
+                                465,
+                                175,
+                                409
                             ]
                         },
                         {
-                            "answer": 457,
+                            "answer": 79,
                             "options": [
-                                97,
-                                457,
-                                4,
-                                97
+                                275,
+                                0,
+                                79,
+                                323
                             ]
                         },
                         {
-                            "answer": 354,
+                            "answer": 482,
                             "options": [
-                                323,
-                                354,
-                                4,
-                                175
+                                399,
+                                482,
+                                394,
+                                235
                             ]
                         },
                         {
-                            "answer": 235,
+                            "answer": 51,
                             "options": [
-                                235,
-                                324,
-                                177,
-                                12
+                                522,
+                                51,
+                                136,
+                                42
                             ]
                         },
                         {
-                            "answer": 12,
+                            "answer": 522,
                             "options": [
                                 42,
-                                12,
-                                442,
-                                4
+                                341,
+                                291,
+                                522
                             ]
                         }
                     ]
@@ -2543,50 +2551,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 5,
                     "game": [
                         {
                             "answer": 457,
                             "options": [
-                                354,
-                                323,
+                                190,
                                 457,
-                                332
+                                42,
+                                341
                             ]
                         },
                         {
-                            "answer": 442,
+                            "answer": 341,
                             "options": [
-                                442,
-                                44,
-                                10,
-                                12
+                                341,
+                                345,
+                                79,
+                                354
                             ]
                         },
                         {
-                            "answer": 324,
+                            "answer": 332,
                             "options": [
-                                394,
-                                175,
-                                324,
-                                332
-                            ]
-                        },
-                        {
-                            "answer": 44,
-                            "options": [
-                                10,
-                                97,
-                                235,
-                                44
-                            ]
-                        },
-                        {
-                            "answer": 136,
-                            "options": [
-                                323,
-                                97,
+                                197,
+                                332,
                                 4,
-                                136
+                                97
+                            ]
+                        },
+                        {
+                            "answer": 1,
+                            "options": [
+                                458,
+                                44,
+                                1,
+                                327
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                482,
+                                197,
+                                12,
+                                4
                             ]
                         }
                     ]
@@ -2597,50 +2606,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 8,
                     "game": [
                         {
-                            "answer": 442,
+                            "answer": 394,
                             "options": [
-                                175,
-                                127,
-                                354,
-                                442
-                            ]
-                        },
-                        {
-                            "answer": 136,
-                            "options": [
-                                332,
-                                136,
-                                42,
-                                235
-                            ]
-                        },
-                        {
-                            "answer": 482,
-                            "options": [
-                                44,
-                                482,
-                                354,
-                                97
-                            ]
-                        },
-                        {
-                            "answer": 175,
-                            "options": [
-                                44,
-                                177,
-                                175,
+                                394,
+                                327,
+                                1,
                                 320
                             ]
                         },
                         {
-                            "answer": 394,
+                            "answer": 1,
                             "options": [
-                                235,
+                                0,
+                                1,
+                                136,
+                                38
+                            ]
+                        },
+                        {
+                            "answer": 320,
+                            "options": [
                                 320,
-                                394,
-                                323
+                                399,
+                                44,
+                                51
+                            ]
+                        },
+                        {
+                            "answer": 442,
+                            "options": [
+                                341,
+                                12,
+                                457,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 274,
+                            "options": [
+                                522,
+                                327,
+                                274,
+                                175
                             ]
                         }
                     ]
@@ -2651,50 +2661,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 10,
                     "game": [
                         {
-                            "answer": 10,
+                            "answer": 457,
                             "options": [
-                                394,
-                                12,
-                                332,
-                                10
-                            ]
-                        },
-                        {
-                            "answer": 320,
-                            "options": [
-                                323,
-                                235,
-                                127,
-                                320
-                            ]
-                        },
-                        {
-                            "answer": 235,
-                            "options": [
+                                275,
                                 354,
-                                177,
-                                235,
-                                177
+                                457,
+                                327
+                            ]
+                        },
+                        {
+                            "answer": 224,
+                            "options": [
+                                10,
+                                44,
+                                332,
+                                224
+                            ]
+                        },
+                        {
+                            "answer": 197,
+                            "options": [
+                                12,
+                                34,
+                                4,
+                                197
+                            ]
+                        },
+                        {
+                            "answer": 190,
+                            "options": [
+                                136,
+                                323,
+                                190,
+                                42
                             ]
                         },
                         {
                             "answer": 332,
                             "options": [
-                                394,
-                                394,
                                 332,
-                                127
-                            ]
-                        },
-                        {
-                            "answer": 354,
-                            "options": [
-                                394,
-                                324,
-                                324,
-                                354
+                                38,
+                                177,
+                                10
                             ]
                         }
                     ]
@@ -2705,50 +2716,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 10,
                     "game": [
                         {
-                            "answer": 97,
+                            "answer": 458,
                             "options": [
-                                44,
-                                97,
-                                482,
-                                136
+                                458,
+                                235,
+                                274,
+                                327
                             ]
                         },
                         {
-                            "answer": 320,
+                            "answer": 394,
                             "options": [
                                 136,
-                                4,
-                                320,
-                                235
+                                274,
+                                197,
+                                394
                             ]
                         },
                         {
-                            "answer": 482,
+                            "answer": 401,
                             "options": [
-                                177,
+                                401,
+                                34,
+                                409,
+                                1
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
                                 482,
-                                323,
-                                177
+                                332,
+                                197,
+                                275
                             ]
                         },
                         {
                             "answer": 44,
                             "options": [
-                                10,
+                                44,
+                                324,
                                 442,
-                                332,
-                                44
-                            ]
-                        },
-                        {
-                            "answer": 10,
-                            "options": [
-                                10,
-                                177,
-                                457,
-                                136
+                                323
                             ]
                         }
                     ]
@@ -2759,50 +2771,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 10,
                     "game": [
                         {
-                            "answer": 394,
+                            "answer": 332,
                             "options": [
+                                332,
+                                409,
+                                12,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 327,
+                            "options": [
+                                327,
+                                323,
+                                197,
+                                45
+                            ]
+                        },
+                        {
+                            "answer": 79,
+                            "options": [
+                                34,
+                                323,
+                                190,
+                                79
+                            ]
+                        },
+                        {
+                            "answer": 401,
+                            "options": [
+                                345,
+                                401,
+                                177,
+                                458
+                            ]
+                        },
+                        {
+                            "answer": 34,
+                            "options": [
+                                34,
                                 442,
-                                4,
-                                394,
-                                97
-                            ]
-                        },
-                        {
-                            "answer": 42,
-                            "options": [
-                                42,
-                                354,
-                                482,
-                                323
-                            ]
-                        },
-                        {
-                            "answer": 175,
-                            "options": [
-                                10,
-                                175,
-                                44,
-                                44
-                            ]
-                        },
-                        {
-                            "answer": 4,
-                            "options": [
-                                332,
-                                332,
-                                332,
-                                4
-                            ]
-                        },
-                        {
-                            "answer": 10,
-                            "options": [
-                                127,
-                                354,
-                                354,
-                                10
+                                291,
+                                190
                             ]
                         }
                     ]
@@ -2813,50 +2826,51 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 10,
                     "game": [
-                        {
-                            "answer": 354,
-                            "options": [
-                                320,
-                                482,
-                                177,
-                                354
-                            ]
-                        },
-                        {
-                            "answer": 323,
-                            "options": [
-                                175,
-                                320,
-                                323,
-                                136
-                            ]
-                        },
-                        {
-                            "answer": 332,
-                            "options": [
-                                4,
-                                394,
-                                332,
-                                136
-                            ]
-                        },
                         {
                             "answer": 457,
                             "options": [
-                                136,
                                 127,
+                                354,
                                 457,
-                                482
+                                274
                             ]
                         },
                         {
-                            "answer": 44,
+                            "answer": 409,
                             "options": [
-                                136,
-                                44,
-                                42,
-                                482
+                                409,
+                                224,
+                                1,
+                                345
+                            ]
+                        },
+                        {
+                            "answer": 79,
+                            "options": [
+                                224,
+                                79,
+                                1,
+                                320
+                            ]
+                        },
+                        {
+                            "answer": 81,
+                            "options": [
+                                81,
+                                38,
+                                51,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 34,
+                            "options": [
+                                522,
+                                34,
+                                482,
+                                327
                             ]
                         }
                     ]
@@ -2867,50 +2881,1006 @@
                         "en": "Description",
                         "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 10,
                     "game": [
                         {
-                            "answer": 175,
+                            "answer": 10,
                             "options": [
-                                175,
-                                332,
-                                127,
-                                10
-                            ]
-                        },
-                        {
-                            "answer": 12,
-                            "options": [
-                                12,
-                                482,
-                                177,
-                                4
-                            ]
-                        },
-                        {
-                            "answer": 332,
-                            "options": [
-                                44,
                                 97,
-                                457,
-                                332
+                                10,
+                                354,
+                                457
                             ]
                         },
                         {
-                            "answer": 354,
+                            "answer": 45,
                             "options": [
-                                354,
-                                136,
+                                394,
+                                522,
+                                409,
+                                45
+                            ]
+                        },
+                        {
+                            "answer": 442,
+                            "options": [
                                 44,
+                                136,
+                                442,
+                                341
+                            ]
+                        },
+                        {
+                            "answer": 323,
+                            "options": [
+                                458,
+                                42,
+                                38,
+                                323
+                            ]
+                        },
+                        {
+                            "answer": 79,
+                            "options": [
+                                458,
+                                1,
+                                79,
                                 394
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "16",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 15,
+                    "game": [
+                        {
+                            "answer": 396,
+                            "options": [
+                                457,
+                                396,
+                                324,
+                                458
+                            ]
+                        },
+                        {
+                            "answer": 341,
+                            "options": [
+                                409,
+                                51,
+                                341,
+                                0
+                            ]
+                        },
+                        {
+                            "answer": 522,
+                            "options": [
+                                235,
+                                45,
+                                522,
+                                127
                             ]
                         },
                         {
                             "answer": 457,
                             "options": [
-                                394,
+                                224,
                                 457,
+                                482,
+                                320
+                            ]
+                        },
+                        {
+                            "answer": 291,
+                            "options": [
+                                190,
+                                81,
+                                291,
+                                320
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "17",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 15,
+                    "game": [
+                        {
+                            "answer": 323,
+                            "options": [
+                                79,
+                                522,
+                                482,
+                                323
+                            ]
+                        },
+                        {
+                            "answer": 38,
+                            "options": [
+                                457,
+                                409,
+                                38,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 79,
+                            "options": [
+                                136,
+                                341,
+                                79,
+                                327
+                            ]
+                        },
+                        {
+                            "answer": 0,
+                            "options": [
+                                324,
+                                332,
+                                0,
+                                190
+                            ]
+                        },
+                        {
+                            "answer": 399,
+                            "options": [
+                                197,
+                                127,
+                                399,
+                                457
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "18",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 16,
+                    "game": [
+                        {
+                            "answer": 81,
+                            "options": [
+                                81,
+                                320,
+                                354,
+                                12
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                401,
+                                354,
+                                224,
+                                44
+                            ]
+                        },
+                        {
+                            "answer": 79,
+                            "options": [
+                                42,
+                                409,
+                                79,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 45,
+                            "options": [
+                                51,
+                                45,
+                                44,
+                                97
+                            ]
+                        },
+                        {
+                            "answer": 197,
+                            "options": [
+                                327,
+                                332,
+                                197,
+                                34
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "19",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 18,
+                    "game": [
+                        {
+                            "answer": 332,
+                            "options": [
+                                42,
+                                332,
+                                320,
+                                0
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                4,
+                                354,
+                                274,
+                                291
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                0,
+                                394,
+                                465,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                332,
+                                175,
+                                0,
+                                409
+                            ]
+                        },
+                        {
+                            "answer": 341,
+                            "options": [
+                                127,
+                                51,
                                 442,
-                                235
+                                341
+                            ]
+                        },
+                        {
+                            "answer": 224,
+                            "options": [
+                                224,
+                                4,
+                                442,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 38,
+                            "options": [
+                                323,
+                                38,
+                                482,
+                                51
+                            ]
+                        },
+                        {
+                            "answer": 44,
+                            "options": [
+                                97,
+                                175,
+                                44,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 327,
+                            "options": [
+                                97,
+                                45,
+                                327,
+                                4
+                            ]
+                        },
+                        {
+                            "answer": 34,
+                            "options": [
+                                482,
+                                522,
+                                34,
+                                175
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "20",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 20,
+                    "game": [
+                        {
+                            "answer": 79,
+                            "options": [
+                                457,
+                                79,
+                                45,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 127,
+                            "options": [
+                                323,
+                                341,
+                                274,
+                                127
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                482,
+                                354,
+                                38,
+                                12
+                            ]
+                        },
+                        {
+                            "answer": 10,
+                            "options": [
+                                10,
+                                332,
+                                522,
+                                409
+                            ]
+                        },
+                        {
+                            "answer": 522,
+                            "options": [
+                                51,
+                                522,
+                                175,
+                                274
+                            ]
+                        },
+                        {
+                            "answer": 345,
+                            "options": [
+                                345,
+                                320,
+                                224,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                457,
+                                465,
+                                341,
+                                197
+                            ]
+                        },
+                        {
+                            "answer": 97,
+                            "options": [
+                                465,
+                                97,
+                                458,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 274,
+                            "options": [
+                                394,
+                                401,
+                                34,
+                                274
+                            ]
+                        },
+                        {
+                            "answer": 197,
+                            "options": [
+                                190,
+                                197,
+                                44,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "21",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 20,
+                    "game": [
+                        {
+                            "answer": 354,
+                            "options": [
+                                354,
+                                81,
+                                224,
+                                10
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                177,
+                                399,
+                                274,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 38,
+                            "options": [
+                                399,
+                                442,
+                                38,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 97,
+                            "options": [
+                                97,
+                                399,
+                                394,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 324,
+                            "options": [
+                                235,
+                                324,
+                                399,
+                                190
+                            ]
+                        },
+                        {
+                            "answer": 274,
+                            "options": [
+                                127,
+                                274,
+                                79,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 44,
+                            "options": [
+                                44,
+                                320,
+                                1,
+                                323
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                235,
+                                34,
+                                332,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 1,
+                            "options": [
+                                1,
+                                0,
+                                522,
+                                42
+                            ]
+                        },
+                        {
+                            "answer": 458,
+                            "options": [
+                                394,
+                                4,
+                                482,
+                                458
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "22",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 20,
+                    "game": [
+                        {
+                            "answer": 458,
+                            "options": [
+                                177,
+                                354,
+                                323,
+                                458
+                            ]
+                        },
+                        {
+                            "answer": 401,
+                            "options": [
+                                38,
+                                34,
+                                401,
+                                522
+                            ]
+                        },
+                        {
+                            "answer": 394,
+                            "options": [
+                                4,
+                                394,
+                                42,
+                                291
+                            ]
+                        },
+                        {
+                            "answer": 396,
+                            "options": [
+                                522,
+                                341,
+                                34,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                399,
+                                175,
+                                354,
+                                522
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                457,
+                                345,
+                                34,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 10,
+                            "options": [
+                                327,
+                                409,
+                                10,
+                                197
+                            ]
+                        },
+                        {
+                            "answer": 409,
+                            "options": [
+                                409,
+                                324,
+                                235,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                341,
+                                275,
+                                136,
+                                42
+                            ]
+                        },
+                        {
+                            "answer": 97,
+                            "options": [
+                                97,
+                                51,
+                                190,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "23",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 20,
+                    "game": [
+                        {
+                            "answer": 394,
+                            "options": [
+                                394,
+                                175,
+                                401,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                0,
+                                51,
+                                332,
+                                522
+                            ]
+                        },
+                        {
+                            "answer": 44,
+                            "options": [
+                                235,
+                                127,
+                                44,
+                                399
+                            ]
+                        },
+                        {
+                            "answer": 458,
+                            "options": [
+                                42,
+                                38,
+                                458,
+                                341
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                482,
+                                327,
+                                323,
+                                224
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                51,
+                                136,
+                                522,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 324,
+                            "options": [
+                                354,
+                                45,
+                                324,
+                                0
+                            ]
+                        },
+                        {
+                            "answer": 399,
+                            "options": [
+                                1,
+                                399,
+                                457,
+                                45
+                            ]
+                        },
+                        {
+                            "answer": 38,
+                            "options": [
+                                320,
+                                1,
+                                38,
+                                274
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                409,
+                                323,
+                                457,
+                                175
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "24",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 25,
+                    "game": [
+                        {
+                            "answer": 136,
+                            "options": [
+                                136,
+                                224,
+                                235,
+                                324
+                            ]
+                        },
+                        {
+                            "answer": 327,
+                            "options": [
+                                175,
+                                332,
+                                327,
+                                275
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                235,
+                                324,
+                                177,
+                                354
+                            ]
+                        },
+                        {
+                            "answer": 399,
+                            "options": [
+                                457,
+                                399,
+                                175,
+                                323
+                            ]
+                        },
+                        {
+                            "answer": 341,
+                            "options": [
+                                341,
+                                323,
+                                458,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 274,
+                            "options": [
+                                274,
+                                442,
+                                291,
+                                42
+                            ]
+                        },
+                        {
+                            "answer": 522,
+                            "options": [
+                                275,
+                                465,
+                                1,
+                                522
+                            ]
+                        },
+                        {
+                            "answer": 45,
+                            "options": [
+                                44,
+                                45,
+                                175,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                235,
+                                275,
+                                332,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 4,
+                            "options": [
+                                4,
+                                324,
+                                44,
+                                354
+                            ]
+                        },
+                        {
+                            "answer": 10,
+                            "options": [
+                                175,
+                                457,
+                                79,
+                                10
+                            ]
+                        },
+                        {
+                            "answer": 394,
+                            "options": [
+                                332,
+                                354,
+                                197,
+                                394
+                            ]
+                        },
+                        {
+                            "answer": 235,
+                            "options": [
+                                354,
+                                235,
+                                97,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                190,
+                                332,
+                                354,
+                                457
+                            ]
+                        },
+                        {
+                            "answer": 97,
+                            "options": [
+                                97,
+                                458,
+                                44,
+                                465
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "25",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 30,
+                    "game": [
+                        {
+                            "answer": 197,
+                            "options": [
+                                44,
+                                197,
+                                394,
+                                4
+                            ]
+                        },
+                        {
+                            "answer": 97,
+                            "options": [
+                                345,
+                                97,
+                                175,
+                                409
+                            ]
+                        },
+                        {
+                            "answer": 127,
+                            "options": [
+                                332,
+                                127,
+                                399,
+                                38
+                            ]
+                        },
+                        {
+                            "answer": 399,
+                            "options": [
+                                399,
+                                457,
+                                401,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 345,
+                            "options": [
+                                522,
+                                396,
+                                401,
+                                345
+                            ]
+                        },
+                        {
+                            "answer": 190,
+                            "options": [
+                                401,
+                                190,
+                                274,
+                                34
+                            ]
+                        },
+                        {
+                            "answer": 12,
+                            "options": [
+                                482,
+                                1,
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "answer": 38,
+                            "options": [
+                                38,
+                                79,
+                                175,
+                                34
+                            ]
+                        },
+                        {
+                            "answer": 327,
+                            "options": [
+                                10,
+                                175,
+                                79,
+                                327
+                            ]
+                        },
+                        {
+                            "answer": 4,
+                            "options": [
+                                354,
+                                81,
+                                4,
+                                175
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                354,
+                                81,
+                                401,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 401,
+                            "options": [
+                                0,
+                                401,
+                                522,
+                                274
+                            ]
+                        },
+                        {
+                            "answer": 394,
+                            "options": [
+                                341,
+                                409,
+                                394,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 442,
+                            "options": [
+                                79,
+                                235,
+                                332,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 275,
+                            "options": [
+                                465,
+                                275,
+                                1,
+                                136
                             ]
                         }
                     ]
