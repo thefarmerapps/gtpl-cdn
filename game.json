@@ -2108,17 +2108,809 @@
                 {
                     "id": "1",
                     "description": {
-                        "en": "Introductory level, for you to get started.",
-                        "pt": "Nível introdutório, para te dar uma vista geral do modo."
+                        "en": "Description",
+                        "pt": "Description"
                     },
                     "game": [
                         {
-                            "answer": 1,
+                            "answer": 177,
                             "options": [
-                                1,
-                                53,
-                                2,
-                                6
+                                354,
+                                175,
+                                44,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                324,
+                                323,
+                                354,
+                                42
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                44,
+                                332,
+                                10,
+                                394
+                            ]
+                        },
+                        {
+                            "answer": 442,
+                            "options": [
+                                10,
+                                10,
+                                442,
+                                12
+                            ]
+                        },
+                        {
+                            "answer": 175,
+                            "options": [
+                                175,
+                                136,
+                                332,
+                                10
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 394,
+                            "options": [
+                                4,
+                                394,
+                                457,
+                                175
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                323,
+                                354,
+                                12,
+                                324
+                            ]
+                        },
+                        {
+                            "answer": 42,
+                            "options": [
+                                42,
+                                10,
+                                10,
+                                320
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                136,
+                                136,
+                                177,
+                                324
+                            ]
+                        },
+                        {
+                            "answer": 127,
+                            "options": [
+                                457,
+                                44,
+                                127,
+                                136
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 235,
+                            "options": [
+                                332,
+                                177,
+                                235,
+                                175
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                323,
+                                332,
+                                12,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 127,
+                            "options": [
+                                127,
+                                12,
+                                136,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 4,
+                            "options": [
+                                177,
+                                442,
+                                4,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                320,
+                                42,
+                                175,
+                                136
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 127,
+                            "options": [
+                                442,
+                                127,
+                                12,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 175,
+                            "options": [
+                                12,
+                                175,
+                                136,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                235,
+                                4,
+                                332,
+                                324
+                            ]
+                        },
+                        {
+                            "answer": 44,
+                            "options": [
+                                97,
+                                44,
+                                394,
+                                42
+                            ]
+                        },
+                        {
+                            "answer": 323,
+                            "options": [
+                                323,
+                                10,
+                                457,
+                                235
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 323,
+                            "options": [
+                                136,
+                                42,
+                                323,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                482,
+                                394,
+                                442,
+                                457
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                127,
+                                442,
+                                175,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                127,
+                                457,
+                                175,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                127,
+                                127,
+                                127,
+                                332
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 136,
+                            "options": [
+                                44,
+                                136,
+                                442,
+                                4
+                            ]
+                        },
+                        {
+                            "answer": 4,
+                            "options": [
+                                442,
+                                457,
+                                97,
+                                4
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                12,
+                                394,
+                                10,
+                                354
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                44,
+                                177,
+                                323,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 127,
+                            "options": [
+                                324,
+                                482,
+                                442,
+                                127
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 324,
+                            "options": [
+                                177,
+                                42,
+                                324,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 394,
+                            "options": [
+                                10,
+                                44,
+                                394,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                177,
+                                42,
+                                136,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                457,
+                                332,
+                                177,
+                                127
+                            ]
+                        },
+                        {
+                            "answer": 10,
+                            "options": [
+                                177,
+                                457,
+                                4,
+                                10
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 127,
+                            "options": [
+                                10,
+                                12,
+                                127,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                97,
+                                457,
+                                4,
+                                97
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                323,
+                                354,
+                                4,
+                                175
+                            ]
+                        },
+                        {
+                            "answer": 235,
+                            "options": [
+                                235,
+                                324,
+                                177,
+                                12
+                            ]
+                        },
+                        {
+                            "answer": 12,
+                            "options": [
+                                42,
+                                12,
+                                442,
+                                4
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 457,
+                            "options": [
+                                354,
+                                323,
+                                457,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 442,
+                            "options": [
+                                442,
+                                44,
+                                10,
+                                12
+                            ]
+                        },
+                        {
+                            "answer": 324,
+                            "options": [
+                                394,
+                                175,
+                                324,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 44,
+                            "options": [
+                                10,
+                                97,
+                                235,
+                                44
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                323,
+                                97,
+                                4,
+                                136
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 442,
+                            "options": [
+                                175,
+                                127,
+                                354,
+                                442
+                            ]
+                        },
+                        {
+                            "answer": 136,
+                            "options": [
+                                332,
+                                136,
+                                42,
+                                235
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                44,
+                                482,
+                                354,
+                                97
+                            ]
+                        },
+                        {
+                            "answer": 175,
+                            "options": [
+                                44,
+                                177,
+                                175,
+                                320
+                            ]
+                        },
+                        {
+                            "answer": 394,
+                            "options": [
+                                235,
+                                320,
+                                394,
+                                323
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "11",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 10,
+                            "options": [
+                                394,
+                                12,
+                                332,
+                                10
+                            ]
+                        },
+                        {
+                            "answer": 320,
+                            "options": [
+                                323,
+                                235,
+                                127,
+                                320
+                            ]
+                        },
+                        {
+                            "answer": 235,
+                            "options": [
+                                354,
+                                177,
+                                235,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                394,
+                                394,
+                                332,
+                                127
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                394,
+                                324,
+                                324,
+                                354
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "12",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 97,
+                            "options": [
+                                44,
+                                97,
+                                482,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 320,
+                            "options": [
+                                136,
+                                4,
+                                320,
+                                235
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                177,
+                                482,
+                                323,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 44,
+                            "options": [
+                                10,
+                                442,
+                                332,
+                                44
+                            ]
+                        },
+                        {
+                            "answer": 10,
+                            "options": [
+                                10,
+                                177,
+                                457,
+                                136
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "13",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 394,
+                            "options": [
+                                442,
+                                4,
+                                394,
+                                97
+                            ]
+                        },
+                        {
+                            "answer": 42,
+                            "options": [
+                                42,
+                                354,
+                                482,
+                                323
+                            ]
+                        },
+                        {
+                            "answer": 175,
+                            "options": [
+                                10,
+                                175,
+                                44,
+                                44
+                            ]
+                        },
+                        {
+                            "answer": 4,
+                            "options": [
+                                332,
+                                332,
+                                332,
+                                4
+                            ]
+                        },
+                        {
+                            "answer": 10,
+                            "options": [
+                                127,
+                                354,
+                                354,
+                                10
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "14",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 354,
+                            "options": [
+                                320,
+                                482,
+                                177,
+                                354
+                            ]
+                        },
+                        {
+                            "answer": 323,
+                            "options": [
+                                175,
+                                320,
+                                323,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                4,
+                                394,
+                                332,
+                                136
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                136,
+                                127,
+                                457,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 44,
+                            "options": [
+                                136,
+                                44,
+                                42,
+                                482
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "15",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "game": [
+                        {
+                            "answer": 175,
+                            "options": [
+                                175,
+                                332,
+                                127,
+                                10
+                            ]
+                        },
+                        {
+                            "answer": 12,
+                            "options": [
+                                12,
+                                482,
+                                177,
+                                4
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                44,
+                                97,
+                                457,
+                                332
+                            ]
+                        },
+                        {
+                            "answer": 354,
+                            "options": [
+                                354,
+                                136,
+                                44,
+                                394
+                            ]
+                        },
+                        {
+                            "answer": 457,
+                            "options": [
+                                394,
+                                457,
+                                442,
+                                235
                             ]
                         }
                     ]
