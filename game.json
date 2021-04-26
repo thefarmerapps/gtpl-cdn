@@ -5893,19 +5893,3373 @@
             "id": "medium",
             "levels": [
                 {
-                    "id": "2",
+                    "id": "27",
                     "description": {
-                        "en": "Introductory level, for you to get started.",
-                        "pt": "Nível introdutório, para te dar uma vista geral do modo."
+                        "en": "Description",
+                        "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 0,
                     "game": [
                         {
-                            "answer": 95,
+                            "answer": 168,
                             "options": [
-                                95,
-                                53,
-                                2,
-                                6
+                                168,
+                                480,
+                                475,
+                                519
+                            ]
+                        },
+                        {
+                            "answer": 500,
+                            "options": [
+                                478,
+                                500,
+                                498,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 505,
+                            "options": [
+                                480,
+                                505,
+                                482,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 497,
+                            "options": [
+                                497,
+                                503,
+                                496,
+                                517
+                            ]
+                        },
+                        {
+                            "answer": 472,
+                            "options": [
+                                472,
+                                335,
+                                336,
+                                503
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.hxml",
+                            "options": [
+                                "Logos.hxml",
+                                "Logos.toml",
+                                "Logos.textile",
+                                "Logos.webIdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vala",
+                            "options": [
+                                "Logos.tiProgram",
+                                "Logos.vala",
+                                "Logos.urWeb",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.verilog",
+                            "options": [
+                                "Logos.toml",
+                                "Logos.verilog",
+                                "Logos.tsql",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unrealScript",
+                            "options": [
+                                "Logos.unrealScript",
+                                "Logos.vcl",
+                                "Logos.uno",
+                                "Logos.wdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.teX",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.papyrus",
+                                "Logos.parrot",
+                                "Logos.vcl"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "28",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 509,
+                            "options": [
+                                200,
+                                470,
+                                509,
+                                336
+                            ]
+                        },
+                        {
+                            "answer": 501,
+                            "options": [
+                                501,
+                                502,
+                                496,
+                                336
+                            ]
+                        },
+                        {
+                            "answer": 335,
+                            "options": [
+                                472,
+                                502,
+                                335,
+                                392
+                            ]
+                        },
+                        {
+                            "answer": 519,
+                            "options": [
+                                467,
+                                200,
+                                519,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 200,
+                            "options": [
+                                500,
+                                200,
+                                473,
+                                505
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.vimScript",
+                            "options": [
+                                "Logos.json",
+                                "Logos.tea",
+                                "Logos.vimScript",
+                                "Logos.parrot"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vba",
+                            "options": [
+                                "Logos.vba",
+                                "Logos.vbScript",
+                                "Logos.uno",
+                                "Logos.parrot"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.papyrus",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.vbScript",
+                                "Logos.papyrus",
+                                "Logos.reaLbasic"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.webIdl",
+                            "options": [
+                                "Logos.systemVerilog",
+                                "Logos.json",
+                                "Logos.webIdl",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.vala",
+                                "Logos.json",
+                                "Logos.texinfo",
+                                "Logos.verilog"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "29",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 200,
+                            "options": [
+                                519,
+                                496,
+                                200,
+                                340
+                            ]
+                        },
+                        {
+                            "answer": 485,
+                            "options": [
+                                485,
+                                502,
+                                478,
+                                492
+                            ]
+                        },
+                        {
+                            "answer": 473,
+                            "options": [
+                                473,
+                                505,
+                                502,
+                                466
+                            ]
+                        },
+                        {
+                            "answer": 388,
+                            "options": [
+                                479,
+                                421,
+                                388,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 512,
+                            "options": [
+                                467,
+                                340,
+                                512,
+                                336
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.webIdl",
+                                "Logos.uno",
+                                "Logos.json",
+                                "Logos.pawn"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.turing",
+                            "options": [
+                                "Logos.turing",
+                                "Logos.vbScript",
+                                "Logos.tiProgram",
+                                "Logos.unifiedParallelC"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.texinfo",
+                            "options": [
+                                "Logos.texinfo",
+                                "Logos.verilog",
+                                "Logos.vbScript",
+                                "Logos.swig"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.rascal",
+                            "options": [
+                                "Logos.tla",
+                                "Logos.sass",
+                                "Logos.rascal",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.volt",
+                            "options": [
+                                "Logos.systemVerilog",
+                                "Logos.pawn",
+                                "Logos.volt",
+                                "Logos.parrot"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "30",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 503,
+                            "options": [
+                                498,
+                                475,
+                                503,
+                                506
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                473,
+                                482,
+                                500,
+                                497
+                            ]
+                        },
+                        {
+                            "answer": 496,
+                            "options": [
+                                479,
+                                496,
+                                492,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 478,
+                            "options": [
+                                500,
+                                502,
+                                478,
+                                394
+                            ]
+                        },
+                        {
+                            "answer": 485,
+                            "options": [
+                                387,
+                                485,
+                                505,
+                                472
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.vcl",
+                            "options": [
+                                "Logos.urWeb",
+                                "Logos.textile",
+                                "Logos.vcl",
+                                "Logos.vhdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tsql",
+                            "options": [
+                                "Logos.texinfo",
+                                "Logos.tsql",
+                                "Logos.vala",
+                                "Logos.unrealScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.uno",
+                            "options": [
+                                "Logos.tla",
+                                "Logos.uno",
+                                "Logos.unifiedParallelC",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tiProgram",
+                            "options": [
+                                "Logos.vala",
+                                "Logos.vbScript",
+                                "Logos.tiProgram",
+                                "Logos.rebol"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.turing",
+                            "options": [
+                                "Logos.raml",
+                                "Logos.turing",
+                                "Logos.verilog",
+                                "Logos.teX"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "31",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 500,
+                            "options": [
+                                471,
+                                392,
+                                500,
+                                421
+                            ]
+                        },
+                        {
+                            "answer": 505,
+                            "options": [
+                                517,
+                                478,
+                                501,
+                                505
+                            ]
+                        },
+                        {
+                            "answer": 396,
+                            "options": [
+                                501,
+                                473,
+                                396,
+                                392
+                            ]
+                        },
+                        {
+                            "answer": 388,
+                            "options": [
+                                335,
+                                392,
+                                470,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 471,
+                            "options": [
+                                421,
+                                472,
+                                502,
+                                471
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.vala",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.reaLbasic",
+                                "Logos.vala",
+                                "Logos.sass"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.verilog",
+                            "options": [
+                                "Logos.wdl",
+                                "Logos.tiProgram",
+                                "Logos.vba",
+                                "Logos.verilog"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.red",
+                            "options": [
+                                "Logos.vba",
+                                "Logos.texinfo",
+                                "Logos.red",
+                                "Logos.reaLbasic"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.rascal",
+                            "options": [
+                                "Logos.papyrus",
+                                "Logos.reaLbasic",
+                                "Logos.tea",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.terra",
+                            "options": [
+                                "Logos.sass",
+                                "Logos.teX",
+                                "Logos.vbScript",
+                                "Logos.terra"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "32",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 467,
+                            "options": [
+                                485,
+                                467,
+                                473,
+                                503
+                            ]
+                        },
+                        {
+                            "answer": 512,
+                            "options": [
+                                512,
+                                388,
+                                396,
+                                478
+                            ]
+                        },
+                        {
+                            "answer": 466,
+                            "options": [
+                                466,
+                                387,
+                                468,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 496,
+                            "options": [
+                                471,
+                                480,
+                                472,
+                                496
+                            ]
+                        },
+                        {
+                            "answer": 472,
+                            "options": [
+                                168,
+                                336,
+                                506,
+                                472
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.systemVerilog",
+                            "options": [
+                                "Logos.turing",
+                                "Logos.systemVerilog",
+                                "Logos.texinfo",
+                                "Logos.vcl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.volt",
+                            "options": [
+                                "Logos.volt",
+                                "Logos.rascal",
+                                "Logos.red",
+                                "Logos.tiProgram"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.swig",
+                            "options": [
+                                "Logos.swig",
+                                "Logos.raml",
+                                "Logos.tcl",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.uno",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.toml",
+                                "Logos.teX",
+                                "Logos.uno"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.teX",
+                            "options": [
+                                "Logos.hxml",
+                                "Logos.parrot",
+                                "Logos.vhdl",
+                                "Logos.teX"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "33",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 200,
+                            "options": [
+                                200,
+                                473,
+                                497,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 505,
+                            "options": [
+                                500,
+                                472,
+                                505,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 506,
+                            "options": [
+                                501,
+                                506,
+                                518,
+                                492
+                            ]
+                        },
+                        {
+                            "answer": 501,
+                            "options": [
+                                502,
+                                501,
+                                497,
+                                498
+                            ]
+                        },
+                        {
+                            "answer": 467,
+                            "options": [
+                                387,
+                                466,
+                                512,
+                                467
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.json",
+                                "Logos.texinfo",
+                                "Logos.unrealScript",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.verilog",
+                            "options": [
+                                "Logos.vala",
+                                "Logos.teX",
+                                "Logos.verilog",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vhdl",
+                            "options": [
+                                "Logos.vba",
+                                "Logos.vhdl",
+                                "Logos.webAssembly",
+                                "Logos.unifiedParallelC"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vba",
+                            "options": [
+                                "Logos.vbScript",
+                                "Logos.vba",
+                                "Logos.unrealScript",
+                                "Logos.urWeb"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.systemVerilog",
+                            "options": [
+                                "Logos.raml",
+                                "Logos.swig",
+                                "Logos.volt",
+                                "Logos.systemVerilog"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "34",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 496,
+                            "options": [
+                                496,
+                                168,
+                                519,
+                                471
+                            ]
+                        },
+                        {
+                            "answer": 335,
+                            "options": [
+                                335,
+                                473,
+                                492,
+                                467
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                482,
+                                498,
+                                480,
+                                500
+                            ]
+                        },
+                        {
+                            "answer": 509,
+                            "options": [
+                                336,
+                                468,
+                                485,
+                                509
+                            ]
+                        },
+                        {
+                            "answer": 492,
+                            "options": [
+                                200,
+                                492,
+                                421,
+                                468
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.uno",
+                            "options": [
+                                "Logos.uno",
+                                "Logos.hxml",
+                                "Logos.webIdl",
+                                "Logos.terra"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.papyrus",
+                            "options": [
+                                "Logos.papyrus",
+                                "Logos.texinfo",
+                                "Logos.unifiedParallelC",
+                                "Logos.systemVerilog"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tsql",
+                            "options": [
+                                "Logos.tsql",
+                                "Logos.urWeb",
+                                "Logos.toml",
+                                "Logos.vala"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vimScript",
+                            "options": [
+                                "Logos.parrot",
+                                "Logos.tcl",
+                                "Logos.turing",
+                                "Logos.vimScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unifiedParallelC",
+                            "options": [
+                                "Logos.json",
+                                "Logos.unifiedParallelC",
+                                "Logos.sass",
+                                "Logos.tcl"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "35",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 497,
+                            "options": [
+                                479,
+                                340,
+                                512,
+                                497
+                            ]
+                        },
+                        {
+                            "answer": 200,
+                            "options": [
+                                519,
+                                492,
+                                200,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 387,
+                            "options": [
+                                387,
+                                466,
+                                473,
+                                168
+                            ]
+                        },
+                        {
+                            "answer": 506,
+                            "options": [
+                                500,
+                                471,
+                                506,
+                                501
+                            ]
+                        },
+                        {
+                            "answer": 480,
+                            "options": [
+                                470,
+                                469,
+                                480,
+                                388
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.unrealScript",
+                            "options": [
+                                "Logos.tla",
+                                "Logos.pawn",
+                                "Logos.volt",
+                                "Logos.unrealScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.webIdl",
+                                "Logos.unifiedParallelC",
+                                "Logos.json",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.raml",
+                            "options": [
+                                "Logos.raml",
+                                "Logos.swig",
+                                "Logos.texinfo",
+                                "Logos.hxml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vhdl",
+                            "options": [
+                                "Logos.vala",
+                                "Logos.terra",
+                                "Logos.vhdl",
+                                "Logos.vba"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.toml",
+                            "options": [
+                                "Logos.tea",
+                                "Logos.tcsh",
+                                "Logos.toml",
+                                "Logos.rascal"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "36",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 492,
+                            "options": [
+                                492,
+                                506,
+                                471,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 497,
+                            "options": [
+                                512,
+                                497,
+                                500,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 502,
+                            "options": [
+                                502,
+                                469,
+                                479,
+                                478
+                            ]
+                        },
+                        {
+                            "answer": 479,
+                            "options": [
+                                200,
+                                517,
+                                506,
+                                479
+                            ]
+                        },
+                        {
+                            "answer": 518,
+                            "options": [
+                                519,
+                                475,
+                                518,
+                                478
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.unifiedParallelC",
+                            "options": [
+                                "Logos.unifiedParallelC",
+                                "Logos.vhdl",
+                                "Logos.terra",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unrealScript",
+                            "options": [
+                                "Logos.volt",
+                                "Logos.unrealScript",
+                                "Logos.vala",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vbScript",
+                            "options": [
+                                "Logos.vbScript",
+                                "Logos.tcsh",
+                                "Logos.tla",
+                                "Logos.tiProgram"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tla",
+                            "options": [
+                                "Logos.json",
+                                "Logos.wdl",
+                                "Logos.vhdl",
+                                "Logos.tla"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.webAssembly",
+                            "options": [
+                                "Logos.webIdl",
+                                "Logos.textile",
+                                "Logos.webAssembly",
+                                "Logos.tiProgram"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "37",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 392,
+                            "options": [
+                                392,
+                                200,
+                                506,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 468,
+                            "options": [
+                                496,
+                                468,
+                                517,
+                                503
+                            ]
+                        },
+                        {
+                            "answer": 496,
+                            "options": [
+                                168,
+                                496,
+                                471,
+                                472
+                            ]
+                        },
+                        {
+                            "answer": 467,
+                            "options": [
+                                467,
+                                336,
+                                497,
+                                482
+                            ]
+                        },
+                        {
+                            "answer": 492,
+                            "options": [
+                                500,
+                                340,
+                                396,
+                                492
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.reaLbasic",
+                            "options": [
+                                "Logos.reaLbasic",
+                                "Logos.json",
+                                "Logos.vhdl",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tcl",
+                            "options": [
+                                "Logos.uno",
+                                "Logos.tcl",
+                                "Logos.wdl",
+                                "Logos.vcl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.uno",
+                            "options": [
+                                "Logos.hxml",
+                                "Logos.uno",
+                                "Logos.terra",
+                                "Logos.teX"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.systemVerilog",
+                            "options": [
+                                "Logos.systemVerilog",
+                                "Logos.parrot",
+                                "Logos.unrealScript",
+                                "Logos.tsql"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unifiedParallelC",
+                            "options": [
+                                "Logos.vala",
+                                "Logos.pawn",
+                                "Logos.red",
+                                "Logos.unifiedParallelC"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "38",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 501,
+                            "options": [
+                                468,
+                                501,
+                                473,
+                                480
+                            ]
+                        },
+                        {
+                            "answer": 467,
+                            "options": [
+                                496,
+                                467,
+                                480,
+                                335
+                            ]
+                        },
+                        {
+                            "answer": 473,
+                            "options": [
+                                340,
+                                473,
+                                335,
+                                496
+                            ]
+                        },
+                        {
+                            "answer": 387,
+                            "options": [
+                                472,
+                                387,
+                                421,
+                                336
+                            ]
+                        },
+                        {
+                            "answer": 394,
+                            "options": [
+                                394,
+                                478,
+                                518,
+                                485
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.vba",
+                            "options": [
+                                "Logos.tcl",
+                                "Logos.vba",
+                                "Logos.texinfo",
+                                "Logos.toml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.systemVerilog",
+                            "options": [
+                                "Logos.uno",
+                                "Logos.systemVerilog",
+                                "Logos.toml",
+                                "Logos.papyrus"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.texinfo",
+                            "options": [
+                                "Logos.pawn",
+                                "Logos.texinfo",
+                                "Logos.papyrus",
+                                "Logos.uno"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.raml",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.raml",
+                                "Logos.sass",
+                                "Logos.parrot"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.rebol",
+                            "options": [
+                                "Logos.rebol",
+                                "Logos.tiProgram",
+                                "Logos.webAssembly",
+                                "Logos.turing"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "39",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 392,
+                            "options": [
+                                505,
+                                392,
+                                500,
+                                200
+                            ]
+                        },
+                        {
+                            "answer": 200,
+                            "options": [
+                                468,
+                                472,
+                                473,
+                                200
+                            ]
+                        },
+                        {
+                            "answer": 519,
+                            "options": [
+                                471,
+                                519,
+                                492,
+                                336
+                            ]
+                        },
+                        {
+                            "answer": 168,
+                            "options": [
+                                517,
+                                394,
+                                469,
+                                168
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                503,
+                                509,
+                                387,
+                                482
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.reaLbasic",
+                            "options": [
+                                "Logos.verilog",
+                                "Logos.reaLbasic",
+                                "Logos.vala",
+                                "Logos.json"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.tcl",
+                                "Logos.teX",
+                                "Logos.texinfo",
+                                "Logos.json"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.webIdl",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.webIdl",
+                                "Logos.unifiedParallelC",
+                                "Logos.parrot"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.hxml",
+                            "options": [
+                                "Logos.wdl",
+                                "Logos.rebol",
+                                "Logos.tcsh",
+                                "Logos.hxml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tsql",
+                            "options": [
+                                "Logos.vcl",
+                                "Logos.vimScript",
+                                "Logos.raml",
+                                "Logos.tsql"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "40",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 392,
+                            "options": [
+                                472,
+                                502,
+                                392,
+                                200
+                            ]
+                        },
+                        {
+                            "answer": 505,
+                            "options": [
+                                505,
+                                470,
+                                506,
+                                168
+                            ]
+                        },
+                        {
+                            "answer": 502,
+                            "options": [
+                                502,
+                                517,
+                                482,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 396,
+                            "options": [
+                                512,
+                                396,
+                                336,
+                                478
+                            ]
+                        },
+                        {
+                            "answer": 485,
+                            "options": [
+                                335,
+                                517,
+                                485,
+                                336
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.reaLbasic",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.vbScript",
+                                "Logos.reaLbasic",
+                                "Logos.json"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.verilog",
+                            "options": [
+                                "Logos.verilog",
+                                "Logos.tea",
+                                "Logos.vhdl",
+                                "Logos.hxml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vbScript",
+                            "options": [
+                                "Logos.vbScript",
+                                "Logos.wdl",
+                                "Logos.tsql",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.red",
+                            "options": [
+                                "Logos.volt",
+                                "Logos.red",
+                                "Logos.parrot",
+                                "Logos.tiProgram"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.turing",
+                            "options": [
+                                "Logos.papyrus",
+                                "Logos.wdl",
+                                "Logos.turing",
+                                "Logos.parrot"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "41",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 394,
+                            "options": [
+                                469,
+                                471,
+                                492,
+                                394
+                            ]
+                        },
+                        {
+                            "answer": 392,
+                            "options": [
+                                480,
+                                518,
+                                392,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 496,
+                            "options": [
+                                519,
+                                512,
+                                496,
+                                509
+                            ]
+                        },
+                        {
+                            "answer": 168,
+                            "options": [
+                                335,
+                                480,
+                                168,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 335,
+                            "options": [
+                                335,
+                                469,
+                                497,
+                                388
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.rebol",
+                            "options": [
+                                "Logos.tcsh",
+                                "Logos.terra",
+                                "Logos.unifiedParallelC",
+                                "Logos.rebol"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.reaLbasic",
+                            "options": [
+                                "Logos.toml",
+                                "Logos.webAssembly",
+                                "Logos.reaLbasic",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.uno",
+                            "options": [
+                                "Logos.webIdl",
+                                "Logos.volt",
+                                "Logos.uno",
+                                "Logos.vimScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.hxml",
+                            "options": [
+                                "Logos.papyrus",
+                                "Logos.toml",
+                                "Logos.hxml",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.papyrus",
+                            "options": [
+                                "Logos.papyrus",
+                                "Logos.tcsh",
+                                "Logos.unrealScript",
+                                "Logos.rascal"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "42",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 168,
+                            "options": [
+                                480,
+                                469,
+                                466,
+                                168
+                            ]
+                        },
+                        {
+                            "answer": 470,
+                            "options": [
+                                471,
+                                470,
+                                505,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 467,
+                            "options": [
+                                501,
+                                387,
+                                471,
+                                467
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                482,
+                                396,
+                                501,
+                                340
+                            ]
+                        },
+                        {
+                            "answer": 421,
+                            "options": [
+                                466,
+                                468,
+                                498,
+                                421
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.hxml",
+                            "options": [
+                                "Logos.toml",
+                                "Logos.tcsh",
+                                "Logos.swig",
+                                "Logos.hxml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tea",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.tea",
+                                "Logos.verilog",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.systemVerilog",
+                            "options": [
+                                "Logos.vba",
+                                "Logos.raml",
+                                "Logos.terra",
+                                "Logos.systemVerilog"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tsql",
+                            "options": [
+                                "Logos.tsql",
+                                "Logos.red",
+                                "Logos.vba",
+                                "Logos.pawn"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.sass",
+                            "options": [
+                                "Logos.swig",
+                                "Logos.tcl",
+                                "Logos.urWeb",
+                                "Logos.sass"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "43",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 498,
+                            "options": [
+                                421,
+                                518,
+                                168,
+                                498
+                            ]
+                        },
+                        {
+                            "answer": 200,
+                            "options": [
+                                200,
+                                497,
+                                396,
+                                480
+                            ]
+                        },
+                        {
+                            "answer": 519,
+                            "options": [
+                                509,
+                                519,
+                                335,
+                                496
+                            ]
+                        },
+                        {
+                            "answer": 468,
+                            "options": [
+                                478,
+                                500,
+                                392,
+                                468
+                            ]
+                        },
+                        {
+                            "answer": 336,
+                            "options": [
+                                336,
+                                506,
+                                168,
+                                421
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.urWeb",
+                            "options": [
+                                "Logos.sass",
+                                "Logos.webAssembly",
+                                "Logos.hxml",
+                                "Logos.urWeb"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.json",
+                                "Logos.unrealScript",
+                                "Logos.red",
+                                "Logos.toml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.webIdl",
+                            "options": [
+                                "Logos.vimScript",
+                                "Logos.webIdl",
+                                "Logos.papyrus",
+                                "Logos.uno"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tcl",
+                            "options": [
+                                "Logos.tiProgram",
+                                "Logos.vala",
+                                "Logos.reaLbasic",
+                                "Logos.tcl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.parrot",
+                            "options": [
+                                "Logos.parrot",
+                                "Logos.vhdl",
+                                "Logos.hxml",
+                                "Logos.sass"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "44",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 336,
+                            "options": [
+                                336,
+                                512,
+                                469,
+                                472
+                            ]
+                        },
+                        {
+                            "answer": 469,
+                            "options": [
+                                469,
+                                496,
+                                485,
+                                421
+                            ]
+                        },
+                        {
+                            "answer": 470,
+                            "options": [
+                                470,
+                                472,
+                                340,
+                                471
+                            ]
+                        },
+                        {
+                            "answer": 509,
+                            "options": [
+                                394,
+                                505,
+                                421,
+                                509
+                            ]
+                        },
+                        {
+                            "answer": 472,
+                            "options": [
+                                200,
+                                475,
+                                472,
+                                421
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.parrot",
+                            "options": [
+                                "Logos.parrot",
+                                "Logos.volt",
+                                "Logos.tcsh",
+                                "Logos.teX"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tcsh",
+                            "options": [
+                                "Logos.tcsh",
+                                "Logos.uno",
+                                "Logos.turing",
+                                "Logos.sass"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tea",
+                            "options": [
+                                "Logos.tea",
+                                "Logos.teX",
+                                "Logos.pawn",
+                                "Logos.terra"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vimScript",
+                            "options": [
+                                "Logos.rebol",
+                                "Logos.verilog",
+                                "Logos.sass",
+                                "Logos.vimScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.teX",
+                            "options": [
+                                "Logos.json",
+                                "Logos.textile",
+                                "Logos.teX",
+                                "Logos.sass"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "45",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 498,
+                            "options": [
+                                498,
+                                506,
+                                340,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 471,
+                            "options": [
+                                496,
+                                519,
+                                471,
+                                340
+                            ]
+                        },
+                        {
+                            "answer": 505,
+                            "options": [
+                                475,
+                                336,
+                                505,
+                                480
+                            ]
+                        },
+                        {
+                            "answer": 473,
+                            "options": [
+                                480,
+                                473,
+                                466,
+                                200
+                            ]
+                        },
+                        {
+                            "answer": 480,
+                            "options": [
+                                482,
+                                480,
+                                200,
+                                500
+                            ]
+                        },
+                        {
+                            "answer": 478,
+                            "options": [
+                                388,
+                                519,
+                                478,
+                                394
+                            ]
+                        },
+                        {
+                            "answer": 517,
+                            "options": [
+                                475,
+                                482,
+                                517,
+                                466
+                            ]
+                        },
+                        {
+                            "answer": 394,
+                            "options": [
+                                502,
+                                479,
+                                497,
+                                394
+                            ]
+                        },
+                        {
+                            "answer": 506,
+                            "options": [
+                                340,
+                                466,
+                                475,
+                                506
+                            ]
+                        },
+                        {
+                            "answer": 475,
+                            "options": [
+                                421,
+                                502,
+                                475,
+                                492
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.urWeb",
+                            "options": [
+                                "Logos.urWeb",
+                                "Logos.vhdl",
+                                "Logos.pawn",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.terra",
+                            "options": [
+                                "Logos.uno",
+                                "Logos.webIdl",
+                                "Logos.terra",
+                                "Logos.pawn"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.verilog",
+                            "options": [
+                                "Logos.textile",
+                                "Logos.parrot",
+                                "Logos.verilog",
+                                "Logos.toml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.texinfo",
+                            "options": [
+                                "Logos.toml",
+                                "Logos.texinfo",
+                                "Logos.swig",
+                                "Logos.json"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.toml",
+                            "options": [
+                                "Logos.tsql",
+                                "Logos.toml",
+                                "Logos.json",
+                                "Logos.vala"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tiProgram",
+                            "options": [
+                                "Logos.rascal",
+                                "Logos.webIdl",
+                                "Logos.tiProgram",
+                                "Logos.rebol"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.wdl",
+                            "options": [
+                                "Logos.textile",
+                                "Logos.tsql",
+                                "Logos.wdl",
+                                "Logos.swig"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.rebol",
+                            "options": [
+                                "Logos.vbScript",
+                                "Logos.tla",
+                                "Logos.unrealScript",
+                                "Logos.rebol"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vhdl",
+                            "options": [
+                                "Logos.pawn",
+                                "Logos.swig",
+                                "Logos.textile",
+                                "Logos.vhdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.textile",
+                            "options": [
+                                "Logos.sass",
+                                "Logos.vbScript",
+                                "Logos.textile",
+                                "Logos.unifiedParallelC"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "46",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 466,
+                            "options": [
+                                466,
+                                472,
+                                502,
+                                421
+                            ]
+                        },
+                        {
+                            "answer": 336,
+                            "options": [
+                                394,
+                                396,
+                                496,
+                                336
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                479,
+                                482,
+                                335,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 502,
+                            "options": [
+                                502,
+                                473,
+                                168,
+                                340
+                            ]
+                        },
+                        {
+                            "answer": 396,
+                            "options": [
+                                471,
+                                396,
+                                492,
+                                335
+                            ]
+                        },
+                        {
+                            "answer": 470,
+                            "options": [
+                                518,
+                                509,
+                                480,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 517,
+                            "options": [
+                                478,
+                                501,
+                                517,
+                                496
+                            ]
+                        },
+                        {
+                            "answer": 200,
+                            "options": [
+                                518,
+                                469,
+                                340,
+                                200
+                            ]
+                        },
+                        {
+                            "answer": 168,
+                            "options": [
+                                518,
+                                168,
+                                340,
+                                479
+                            ]
+                        },
+                        {
+                            "answer": 497,
+                            "options": [
+                                471,
+                                519,
+                                392,
+                                497
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.swig",
+                            "options": [
+                                "Logos.swig",
+                                "Logos.teX",
+                                "Logos.vbScript",
+                                "Logos.sass"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.parrot",
+                            "options": [
+                                "Logos.rebol",
+                                "Logos.red",
+                                "Logos.uno",
+                                "Logos.parrot"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tsql",
+                            "options": [
+                                "Logos.tla",
+                                "Logos.tsql",
+                                "Logos.papyrus",
+                                "Logos.red"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vbScript",
+                            "options": [
+                                "Logos.vbScript",
+                                "Logos.texinfo",
+                                "Logos.hxml",
+                                "Logos.pawn"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.red",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.red",
+                                "Logos.unifiedParallelC",
+                                "Logos.papyrus"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tea",
+                            "options": [
+                                "Logos.webAssembly",
+                                "Logos.vimScript",
+                                "Logos.toml",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.wdl",
+                            "options": [
+                                "Logos.tiProgram",
+                                "Logos.vba",
+                                "Logos.wdl",
+                                "Logos.uno"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.webAssembly",
+                                "Logos.tcsh",
+                                "Logos.pawn",
+                                "Logos.json"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.hxml",
+                            "options": [
+                                "Logos.webAssembly",
+                                "Logos.hxml",
+                                "Logos.pawn",
+                                "Logos.tla"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unrealScript",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.webIdl",
+                                "Logos.reaLbasic",
+                                "Logos.unrealScript"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "47",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 485,
+                            "options": [
+                                392,
+                                519,
+                                485,
+                                498
+                            ]
+                        },
+                        {
+                            "answer": 200,
+                            "options": [
+                                471,
+                                468,
+                                200,
+                                168
+                            ]
+                        },
+                        {
+                            "answer": 502,
+                            "options": [
+                                502,
+                                501,
+                                387,
+                                497
+                            ]
+                        },
+                        {
+                            "answer": 392,
+                            "options": [
+                                509,
+                                478,
+                                392,
+                                473
+                            ]
+                        },
+                        {
+                            "answer": 492,
+                            "options": [
+                                492,
+                                497,
+                                470,
+                                505
+                            ]
+                        },
+                        {
+                            "answer": 475,
+                            "options": [
+                                479,
+                                475,
+                                503,
+                                469
+                            ]
+                        },
+                        {
+                            "answer": 478,
+                            "options": [
+                                501,
+                                509,
+                                505,
+                                478
+                            ]
+                        },
+                        {
+                            "answer": 387,
+                            "options": [
+                                387,
+                                335,
+                                496,
+                                498
+                            ]
+                        },
+                        {
+                            "answer": 479,
+                            "options": [
+                                336,
+                                498,
+                                479,
+                                505
+                            ]
+                        },
+                        {
+                            "answer": 509,
+                            "options": [
+                                509,
+                                168,
+                                340,
+                                503
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.turing",
+                            "options": [
+                                "Logos.reaLbasic",
+                                "Logos.webIdl",
+                                "Logos.turing",
+                                "Logos.urWeb"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.tcl",
+                                "Logos.json",
+                                "Logos.hxml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vbScript",
+                            "options": [
+                                "Logos.vbScript",
+                                "Logos.vba",
+                                "Logos.raml",
+                                "Logos.unrealScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.reaLbasic",
+                            "options": [
+                                "Logos.vimScript",
+                                "Logos.tiProgram",
+                                "Logos.reaLbasic",
+                                "Logos.texinfo"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unifiedParallelC",
+                            "options": [
+                                "Logos.unifiedParallelC",
+                                "Logos.unrealScript",
+                                "Logos.tea",
+                                "Logos.verilog"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.textile",
+                            "options": [
+                                "Logos.tla",
+                                "Logos.textile",
+                                "Logos.vcl",
+                                "Logos.tcsh"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tiProgram",
+                            "options": [
+                                "Logos.vba",
+                                "Logos.vimScript",
+                                "Logos.verilog",
+                                "Logos.tiProgram"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.raml",
+                            "options": [
+                                "Logos.raml",
+                                "Logos.papyrus",
+                                "Logos.uno",
+                                "Logos.urWeb"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tla",
+                            "options": [
+                                "Logos.parrot",
+                                "Logos.urWeb",
+                                "Logos.tla",
+                                "Logos.verilog"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vimScript",
+                            "options": [
+                                "Logos.vimScript",
+                                "Logos.hxml",
+                                "Logos.pawn",
+                                "Logos.vcl"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "48",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 480,
+                            "options": [
+                                480,
+                                485,
+                                470,
+                                519
+                            ]
+                        },
+                        {
+                            "answer": 517,
+                            "options": [
+                                517,
+                                472,
+                                512,
+                                509
+                            ]
+                        },
+                        {
+                            "answer": 340,
+                            "options": [
+                                468,
+                                340,
+                                478,
+                                479
+                            ]
+                        },
+                        {
+                            "answer": 479,
+                            "options": [
+                                479,
+                                496,
+                                421,
+                                512
+                            ]
+                        },
+                        {
+                            "answer": 500,
+                            "options": [
+                                478,
+                                496,
+                                500,
+                                501
+                            ]
+                        },
+                        {
+                            "answer": 502,
+                            "options": [
+                                497,
+                                468,
+                                496,
+                                502
+                            ]
+                        },
+                        {
+                            "answer": 467,
+                            "options": [
+                                506,
+                                471,
+                                394,
+                                467
+                            ]
+                        },
+                        {
+                            "answer": 498,
+                            "options": [
+                                468,
+                                470,
+                                518,
+                                498
+                            ]
+                        },
+                        {
+                            "answer": 518,
+                            "options": [
+                                469,
+                                518,
+                                200,
+                                475
+                            ]
+                        },
+                        {
+                            "answer": 473,
+                            "options": [
+                                496,
+                                492,
+                                473,
+                                509
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.toml",
+                            "options": [
+                                "Logos.toml",
+                                "Logos.turing",
+                                "Logos.tea",
+                                "Logos.webIdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.wdl",
+                            "options": [
+                                "Logos.wdl",
+                                "Logos.teX",
+                                "Logos.volt",
+                                "Logos.vimScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.pawn",
+                            "options": [
+                                "Logos.tcl",
+                                "Logos.pawn",
+                                "Logos.tiProgram",
+                                "Logos.tla"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tla",
+                            "options": [
+                                "Logos.tla",
+                                "Logos.uno",
+                                "Logos.sass",
+                                "Logos.volt"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vala",
+                            "options": [
+                                "Logos.tiProgram",
+                                "Logos.uno",
+                                "Logos.vala",
+                                "Logos.vba"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vbScript",
+                            "options": [
+                                "Logos.unrealScript",
+                                "Logos.tcl",
+                                "Logos.uno",
+                                "Logos.vbScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.systemVerilog",
+                            "options": [
+                                "Logos.vhdl",
+                                "Logos.terra",
+                                "Logos.rebol",
+                                "Logos.systemVerilog"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.urWeb",
+                            "options": [
+                                "Logos.tcl",
+                                "Logos.tea",
+                                "Logos.webAssembly",
+                                "Logos.urWeb"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.webAssembly",
+                            "options": [
+                                "Logos.tcsh",
+                                "Logos.webAssembly",
+                                "Logos.json",
+                                "Logos.textile"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.texinfo",
+                            "options": [
+                                "Logos.uno",
+                                "Logos.unifiedParallelC",
+                                "Logos.texinfo",
+                                "Logos.vimScript"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "49",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 200,
+                            "options": [
+                                468,
+                                466,
+                                200,
+                                336
+                            ]
+                        },
+                        {
+                            "answer": 467,
+                            "options": [
+                                396,
+                                502,
+                                467,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                387,
+                                471,
+                                482,
+                                517
+                            ]
+                        },
+                        {
+                            "answer": 340,
+                            "options": [
+                                475,
+                                497,
+                                498,
+                                340
+                            ]
+                        },
+                        {
+                            "answer": 469,
+                            "options": [
+                                501,
+                                469,
+                                506,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 480,
+                            "options": [
+                                492,
+                                480,
+                                421,
+                                506
+                            ]
+                        },
+                        {
+                            "answer": 472,
+                            "options": [
+                                472,
+                                336,
+                                518,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 392,
+                            "options": [
+                                518,
+                                396,
+                                392,
+                                335
+                            ]
+                        },
+                        {
+                            "answer": 168,
+                            "options": [
+                                388,
+                                168,
+                                497,
+                                519
+                            ]
+                        },
+                        {
+                            "answer": 492,
+                            "options": [
+                                496,
+                                498,
+                                492,
+                                421
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.tcl",
+                                "Logos.swig",
+                                "Logos.json",
+                                "Logos.parrot"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.systemVerilog",
+                            "options": [
+                                "Logos.red",
+                                "Logos.vbScript",
+                                "Logos.systemVerilog",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tsql",
+                            "options": [
+                                "Logos.raml",
+                                "Logos.terra",
+                                "Logos.tsql",
+                                "Logos.wdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.pawn",
+                            "options": [
+                                "Logos.textile",
+                                "Logos.unrealScript",
+                                "Logos.urWeb",
+                                "Logos.pawn"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tcsh",
+                            "options": [
+                                "Logos.vba",
+                                "Logos.tcsh",
+                                "Logos.vhdl",
+                                "Logos.red"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.toml",
+                            "options": [
+                                "Logos.unifiedParallelC",
+                                "Logos.toml",
+                                "Logos.sass",
+                                "Logos.vhdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.teX",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.parrot",
+                                "Logos.webAssembly",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.reaLbasic",
+                            "options": [
+                                "Logos.webAssembly",
+                                "Logos.red",
+                                "Logos.reaLbasic",
+                                "Logos.papyrus"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.hxml",
+                            "options": [
+                                "Logos.rascal",
+                                "Logos.hxml",
+                                "Logos.unrealScript",
+                                "Logos.webIdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unifiedParallelC",
+                            "options": [
+                                "Logos.uno",
+                                "Logos.urWeb",
+                                "Logos.unifiedParallelC",
+                                "Logos.sass"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "50",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 473,
+                            "options": [
+                                467,
+                                200,
+                                473,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 480,
+                            "options": [
+                                200,
+                                480,
+                                512,
+                                470
+                            ]
+                        },
+                        {
+                            "answer": 466,
+                            "options": [
+                                336,
+                                505,
+                                466,
+                                518
+                            ]
+                        },
+                        {
+                            "answer": 505,
+                            "options": [
+                                517,
+                                502,
+                                200,
+                                505
+                            ]
+                        },
+                        {
+                            "answer": 336,
+                            "options": [
+                                336,
+                                485,
+                                506,
+                                387
+                            ]
+                        },
+                        {
+                            "answer": 482,
+                            "options": [
+                                518,
+                                475,
+                                482,
+                                472
+                            ]
+                        },
+                        {
+                            "answer": 421,
+                            "options": [
+                                506,
+                                502,
+                                421,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 496,
+                            "options": [
+                                509,
+                                492,
+                                496,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 470,
+                            "options": [
+                                468,
+                                501,
+                                470,
+                                503
+                            ]
+                        },
+                        {
+                            "answer": 475,
+                            "options": [
+                                506,
+                                475,
+                                512,
+                                200
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.texinfo",
+                            "options": [
+                                "Logos.systemVerilog",
+                                "Logos.json",
+                                "Logos.texinfo",
+                                "Logos.red"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.toml",
+                            "options": [
+                                "Logos.json",
+                                "Logos.toml",
+                                "Logos.volt",
+                                "Logos.tea"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.swig",
+                            "options": [
+                                "Logos.parrot",
+                                "Logos.verilog",
+                                "Logos.swig",
+                                "Logos.webAssembly"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.verilog",
+                            "options": [
+                                "Logos.wdl",
+                                "Logos.vbScript",
+                                "Logos.json",
+                                "Logos.verilog"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.parrot",
+                            "options": [
+                                "Logos.parrot",
+                                "Logos.turing",
+                                "Logos.vhdl",
+                                "Logos.raml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tsql",
+                            "options": [
+                                "Logos.webAssembly",
+                                "Logos.textile",
+                                "Logos.tsql",
+                                "Logos.teX"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.sass",
+                            "options": [
+                                "Logos.vhdl",
+                                "Logos.vbScript",
+                                "Logos.sass",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.uno",
+                            "options": [
+                                "Logos.vimScript",
+                                "Logos.unifiedParallelC",
+                                "Logos.uno",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tea",
+                            "options": [
+                                "Logos.tcl",
+                                "Logos.vba",
+                                "Logos.tea",
+                                "Logos.vcl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.textile",
+                            "options": [
+                                "Logos.vhdl",
+                                "Logos.textile",
+                                "Logos.volt",
+                                "Logos.json"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "51",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 335,
+                            "options": [
+                                466,
+                                200,
+                                335,
+                                340
+                            ]
+                        },
+                        {
+                            "answer": 512,
+                            "options": [
+                                388,
+                                473,
+                                512,
+                                506
+                            ]
+                        },
+                        {
+                            "answer": 497,
+                            "options": [
+                                472,
+                                497,
+                                519,
+                                392
+                            ]
+                        },
+                        {
+                            "answer": 496,
+                            "options": [
+                                168,
+                                509,
+                                496,
+                                387
+                            ]
+                        },
+                        {
+                            "answer": 518,
+                            "options": [
+                                498,
+                                388,
+                                518,
+                                506
+                            ]
+                        },
+                        {
+                            "answer": 478,
+                            "options": [
+                                501,
+                                478,
+                                471,
+                                200
+                            ]
+                        },
+                        {
+                            "answer": 502,
+                            "options": [
+                                471,
+                                502,
+                                485,
+                                392
+                            ]
+                        },
+                        {
+                            "answer": 421,
+                            "options": [
+                                475,
+                                509,
+                                421,
+                                519
+                            ]
+                        },
+                        {
+                            "answer": 479,
+                            "options": [
+                                479,
+                                498,
+                                517,
+                                469
+                            ]
+                        },
+                        {
+                            "answer": 200,
+                            "options": [
+                                200,
+                                505,
+                                471,
+                                168
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.papyrus",
+                            "options": [
+                                "Logos.swig",
+                                "Logos.json",
+                                "Logos.papyrus",
+                                "Logos.pawn"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.volt",
+                            "options": [
+                                "Logos.rascal",
+                                "Logos.texinfo",
+                                "Logos.volt",
+                                "Logos.vhdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unrealScript",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.unrealScript",
+                                "Logos.webIdl",
+                                "Logos.reaLbasic"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.uno",
+                            "options": [
+                                "Logos.hxml",
+                                "Logos.vimScript",
+                                "Logos.uno",
+                                "Logos.raml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.webAssembly",
+                            "options": [
+                                "Logos.urWeb",
+                                "Logos.rascal",
+                                "Logos.webAssembly",
+                                "Logos.vhdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tiProgram",
+                            "options": [
+                                "Logos.vba",
+                                "Logos.tiProgram",
+                                "Logos.terra",
+                                "Logos.json"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vbScript",
+                            "options": [
+                                "Logos.terra",
+                                "Logos.vbScript",
+                                "Logos.turing",
+                                "Logos.reaLbasic"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.sass",
+                            "options": [
+                                "Logos.textile",
+                                "Logos.vimScript",
+                                "Logos.sass",
+                                "Logos.webIdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tla",
+                            "options": [
+                                "Logos.tla",
+                                "Logos.urWeb",
+                                "Logos.wdl",
+                                "Logos.tcsh"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.json",
+                            "options": [
+                                "Logos.json",
+                                "Logos.verilog",
+                                "Logos.terra",
+                                "Logos.hxml"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "52",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 387,
+                            "options": [
+                                335,
+                                492,
+                                168,
+                                387
+                            ]
+                        },
+                        {
+                            "answer": 506,
+                            "options": [
+                                340,
+                                479,
+                                506,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 388,
+                            "options": [
+                                505,
+                                479,
+                                466,
+                                388
+                            ]
+                        },
+                        {
+                            "answer": 512,
+                            "options": [
+                                512,
+                                168,
+                                497,
+                                336
+                            ]
+                        },
+                        {
+                            "answer": 473,
+                            "options": [
+                                168,
+                                503,
+                                473,
+                                485
+                            ]
+                        },
+                        {
+                            "answer": 392,
+                            "options": [
+                                467,
+                                392,
+                                497,
+                                501
+                            ]
+                        },
+                        {
+                            "answer": 470,
+                            "options": [
+                                470,
+                                466,
+                                502,
+                                340
+                            ]
+                        },
+                        {
+                            "answer": 498,
+                            "options": [
+                                472,
+                                498,
+                                467,
+                                519
+                            ]
+                        },
+                        {
+                            "answer": 472,
+                            "options": [
+                                472,
+                                479,
+                                492,
+                                396
+                            ]
+                        },
+                        {
+                            "answer": 518,
+                            "options": [
+                                492,
+                                518,
+                                479,
+                                501
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.raml",
+                            "options": [
+                                "Logos.papyrus",
+                                "Logos.unifiedParallelC",
+                                "Logos.hxml",
+                                "Logos.raml"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vhdl",
+                            "options": [
+                                "Logos.pawn",
+                                "Logos.tla",
+                                "Logos.vhdl",
+                                "Logos.red"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.rascal",
+                            "options": [
+                                "Logos.verilog",
+                                "Logos.tla",
+                                "Logos.swig",
+                                "Logos.rascal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.volt",
+                            "options": [
+                                "Logos.volt",
+                                "Logos.hxml",
+                                "Logos.unrealScript",
+                                "Logos.parrot"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.texinfo",
+                            "options": [
+                                "Logos.hxml",
+                                "Logos.vcl",
+                                "Logos.texinfo",
+                                "Logos.turing"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.reaLbasic",
+                            "options": [
+                                "Logos.systemVerilog",
+                                "Logos.reaLbasic",
+                                "Logos.unrealScript",
+                                "Logos.vba"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.tea",
+                            "options": [
+                                "Logos.tea",
+                                "Logos.swig",
+                                "Logos.vbScript",
+                                "Logos.pawn"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.urWeb",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.urWeb",
+                                "Logos.systemVerilog",
+                                "Logos.webIdl"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.teX",
+                            "options": [
+                                "Logos.teX",
+                                "Logos.tla",
+                                "Logos.unifiedParallelC",
+                                "Logos.red"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.webAssembly",
+                            "options": [
+                                "Logos.unifiedParallelC",
+                                "Logos.webAssembly",
+                                "Logos.tla",
+                                "Logos.vba"
                             ]
                         }
                     ]
@@ -5916,19 +9270,1531 @@
             "id": "hard",
             "levels": [
                 {
-                    "id": "3",
+                    "id": "53",
                     "description": {
-                        "en": "Introductory level, for you to get started.",
-                        "pt": "Nível introdutório, para te dar uma vista geral do modo."
+                        "en": "Description",
+                        "pt": "Description"
                     },
+                    "starsRequiredToUnlockLevel": 0,
                     "game": [
                         {
-                            "answer": 1,
+                            "answer": 524,
                             "options": [
-                                1,
-                                53,
-                                2,
-                                6
+                                112,
+                                491,
+                                409,
+                                524
+                            ]
+                        },
+                        {
+                            "answer": 462,
+                            "options": [
+                                177,
+                                397,
+                                462,
+                                192
+                            ]
+                        },
+                        {
+                            "answer": 523,
+                            "options": [
+                                504,
+                                523,
+                                430,
+                                107
+                            ]
+                        },
+                        {
+                            "answer": 528,
+                            "options": [
+                                198,
+                                3,
+                                528,
+                                29
+                            ]
+                        },
+                        {
+                            "answer": 96,
+                            "options": [
+                                96,
+                                495,
+                                486,
+                                477
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.whitespace",
+                            "options": [
+                                "Logos.fugue",
+                                "Logos.unary",
+                                "Logos.rockstar",
+                                "Logos.whitespace"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.suzy",
+                            "options": [
+                                "Logos.ini",
+                                "Logos.redcode",
+                                "Logos.suzy",
+                                "Logos.jelly"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.whenever",
+                            "options": [
+                                "Logos.velato",
+                                "Logos.whenever",
+                                "Logos.shakespeare",
+                                "Logos.freakC"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.worldLang",
+                            "options": [
+                                "Logos.jsFuck",
+                                "Logos.ajsone",
+                                "Logos.worldLang",
+                                "Logos.charcoal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.fetLang",
+                            "options": [
+                                "Logos.fetLang",
+                                "Logos.unlambda",
+                                "Logos.turtle",
+                                "Logos.thue"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "54",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 24,
+                            "options": [
+                                504,
+                                332,
+                                24,
+                                523
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                486,
+                                219,
+                                177,
+                                149
+                            ]
+                        },
+                        {
+                            "answer": 89,
+                            "options": [
+                                3,
+                                193,
+                                528,
+                                89
+                            ]
+                        },
+                        {
+                            "answer": 491,
+                            "options": [
+                                491,
+                                193,
+                                30,
+                                185
+                            ]
+                        },
+                        {
+                            "answer": 96,
+                            "options": [
+                                30,
+                                504,
+                                96,
+                                198
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.brainfuck",
+                            "options": [
+                                "Logos.velato",
+                                "Logos.oz",
+                                "Logos.brainfuck",
+                                "Logos.whenever"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.ini",
+                            "options": [
+                                "Logos.turtle",
+                                "Logos.legit",
+                                "Logos.ini",
+                                "Logos.haifu"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.emojiCode",
+                            "options": [
+                                "Logos.ajsone",
+                                "Logos.jellyScript",
+                                "Logos.worldLang",
+                                "Logos.emojiCode"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unary",
+                            "options": [
+                                "Logos.unary",
+                                "Logos.jellyScript",
+                                "Logos.chef",
+                                "Logos.japt"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.fetLang",
+                            "options": [
+                                "Logos.chef",
+                                "Logos.velato",
+                                "Logos.fetLang",
+                                "Logos.jsFuck"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "55",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 514,
+                            "options": [
+                                102,
+                                247,
+                                107,
+                                514
+                            ]
+                        },
+                        {
+                            "answer": 477,
+                            "options": [
+                                486,
+                                477,
+                                24,
+                                247
+                            ]
+                        },
+                        {
+                            "answer": 96,
+                            "options": [
+                                219,
+                                96,
+                                397,
+                                524
+                            ]
+                        },
+                        {
+                            "answer": 235,
+                            "options": [
+                                235,
+                                491,
+                                430,
+                                528
+                            ]
+                        },
+                        {
+                            "answer": 112,
+                            "options": [
+                                31,
+                                486,
+                                112,
+                                507
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.watson",
+                            "options": [
+                                "Logos.folders",
+                                "Logos.malboge",
+                                "Logos.freakC",
+                                "Logos.watson"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.thue",
+                            "options": [
+                                "Logos.turtle",
+                                "Logos.thue",
+                                "Logos.brainfuck",
+                                "Logos.malboge"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.fetLang",
+                            "options": [
+                                "Logos.legit",
+                                "Logos.fetLang",
+                                "Logos.redcode",
+                                "Logos.whitespace"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.lolcode",
+                            "options": [
+                                "Logos.lolcode",
+                                "Logos.unary",
+                                "Logos.shakespeare",
+                                "Logos.worldLang"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.fugue",
+                            "options": [
+                                "Logos.chicken",
+                                "Logos.turtle",
+                                "Logos.fugue",
+                                "Logos.vigil"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "56",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 514,
+                            "options": [
+                                481,
+                                149,
+                                514,
+                                523
+                            ]
+                        },
+                        {
+                            "answer": 462,
+                            "options": [
+                                96,
+                                462,
+                                177,
+                                504
+                            ]
+                        },
+                        {
+                            "answer": 486,
+                            "options": [
+                                486,
+                                185,
+                                107,
+                                192
+                            ]
+                        },
+                        {
+                            "answer": 3,
+                            "options": [
+                                185,
+                                3,
+                                29,
+                                523
+                            ]
+                        },
+                        {
+                            "answer": 495,
+                            "options": [
+                                495,
+                                523,
+                                30,
+                                206
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.watson",
+                            "options": [
+                                "Logos.trumpScript",
+                                "Logos.haifu",
+                                "Logos.watson",
+                                "Logos.whenever"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.suzy",
+                            "options": [
+                                "Logos.fetLang",
+                                "Logos.suzy",
+                                "Logos.ini",
+                                "Logos.velato"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.turtle",
+                            "options": [
+                                "Logos.turtle",
+                                "Logos.japt",
+                                "Logos.freakC",
+                                "Logos.jelly"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.ajsone",
+                            "options": [
+                                "Logos.japt",
+                                "Logos.ajsone",
+                                "Logos.charcoal",
+                                "Logos.whenever"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unlambda",
+                            "options": [
+                                "Logos.unlambda",
+                                "Logos.whenever",
+                                "Logos.chef",
+                                "Logos.jupyterNotebook"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "57",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 528,
+                            "options": [
+                                177,
+                                528,
+                                185,
+                                219
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                107,
+                                177,
+                                102,
+                                68
+                            ]
+                        },
+                        {
+                            "answer": 409,
+                            "options": [
+                                198,
+                                486,
+                                31,
+                                409
+                            ]
+                        },
+                        {
+                            "answer": 481,
+                            "options": [
+                                481,
+                                192,
+                                24,
+                                430
+                            ]
+                        },
+                        {
+                            "answer": 347,
+                            "options": [
+                                462,
+                                347,
+                                193,
+                                22
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.worldLang",
+                            "options": [
+                                "Logos.ini",
+                                "Logos.worldLang",
+                                "Logos.japt",
+                                "Logos.legit"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.ini",
+                            "options": [
+                                "Logos.freakC",
+                                "Logos.ini",
+                                "Logos.folders",
+                                "Logos.dots"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.rockstar",
+                            "options": [
+                                "Logos.jsFuck",
+                                "Logos.turtle",
+                                "Logos.chicken",
+                                "Logos.rockstar"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.trumpScript",
+                            "options": [
+                                "Logos.trumpScript",
+                                "Logos.jelly",
+                                "Logos.brainfuck",
+                                "Logos.shakespeare"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.piet",
+                            "options": [
+                                "Logos.suzy",
+                                "Logos.piet",
+                                "Logos.jellyScript",
+                                "Logos.befunge"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "58",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 192,
+                            "options": [
+                                89,
+                                177,
+                                22,
+                                192
+                            ]
+                        },
+                        {
+                            "answer": 347,
+                            "options": [
+                                524,
+                                107,
+                                347,
+                                559
+                            ]
+                        },
+                        {
+                            "answer": 198,
+                            "options": [
+                                198,
+                                559,
+                                89,
+                                107
+                            ]
+                        },
+                        {
+                            "answer": 462,
+                            "options": [
+                                559,
+                                235,
+                                107,
+                                462
+                            ]
+                        },
+                        {
+                            "answer": 504,
+                            "options": [
+                                219,
+                                504,
+                                528,
+                                193
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.jelly",
+                            "options": [
+                                "Logos.emojiCode",
+                                "Logos.ini",
+                                "Logos.befunge",
+                                "Logos.jelly"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.piet",
+                            "options": [
+                                "Logos.whitespace",
+                                "Logos.freakC",
+                                "Logos.piet",
+                                "Logos.zombie"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.jsFuck",
+                            "options": [
+                                "Logos.jsFuck",
+                                "Logos.zombie",
+                                "Logos.emojiCode",
+                                "Logos.freakC"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.suzy",
+                            "options": [
+                                "Logos.zombie",
+                                "Logos.lolcode",
+                                "Logos.freakC",
+                                "Logos.suzy"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.velato",
+                            "options": [
+                                "Logos.legit",
+                                "Logos.velato",
+                                "Logos.worldLang",
+                                "Logos.jellyScript"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "59",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 507,
+                            "options": [
+                                3,
+                                524,
+                                507,
+                                486
+                            ]
+                        },
+                        {
+                            "answer": 397,
+                            "options": [
+                                102,
+                                96,
+                                477,
+                                397
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                235,
+                                68,
+                                177,
+                                96
+                            ]
+                        },
+                        {
+                            "answer": 430,
+                            "options": [
+                                495,
+                                3,
+                                514,
+                                430
+                            ]
+                        },
+                        {
+                            "answer": 486,
+                            "options": [
+                                30,
+                                247,
+                                89,
+                                486
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.vigil",
+                            "options": [
+                                "Logos.ajsone",
+                                "Logos.whitespace",
+                                "Logos.vigil",
+                                "Logos.turtle"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.redcode",
+                            "options": [
+                                "Logos.folders",
+                                "Logos.fetLang",
+                                "Logos.thue",
+                                "Logos.redcode"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.ini",
+                            "options": [
+                                "Logos.lolcode",
+                                "Logos.dots",
+                                "Logos.ini",
+                                "Logos.fetLang"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.shakespeare",
+                            "options": [
+                                "Logos.unlambda",
+                                "Logos.ajsone",
+                                "Logos.watson",
+                                "Logos.shakespeare"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.turtle",
+                            "options": [
+                                "Logos.chef",
+                                "Logos.malboge",
+                                "Logos.emojiCode",
+                                "Logos.turtle"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "60",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 96,
+                            "options": [
+                                409,
+                                235,
+                                198,
+                                96
+                            ]
+                        },
+                        {
+                            "answer": 507,
+                            "options": [
+                                507,
+                                409,
+                                486,
+                                504
+                            ]
+                        },
+                        {
+                            "answer": 528,
+                            "options": [
+                                528,
+                                491,
+                                3,
+                                68
+                            ]
+                        },
+                        {
+                            "answer": 524,
+                            "options": [
+                                102,
+                                524,
+                                430,
+                                486
+                            ]
+                        },
+                        {
+                            "answer": 24,
+                            "options": [
+                                185,
+                                24,
+                                247,
+                                347
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.fetLang",
+                            "options": [
+                                "Logos.rockstar",
+                                "Logos.lolcode",
+                                "Logos.jsFuck",
+                                "Logos.fetLang"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vigil",
+                            "options": [
+                                "Logos.vigil",
+                                "Logos.rockstar",
+                                "Logos.turtle",
+                                "Logos.velato"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.worldLang",
+                            "options": [
+                                "Logos.worldLang",
+                                "Logos.unary",
+                                "Logos.ajsone",
+                                "Logos.dots"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.whitespace",
+                            "options": [
+                                "Logos.folders",
+                                "Logos.whitespace",
+                                "Logos.shakespeare",
+                                "Logos.turtle"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.brainfuck",
+                            "options": [
+                                "Logos.japt",
+                                "Logos.brainfuck",
+                                "Logos.malboge",
+                                "Logos.piet"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "61",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 559,
+                            "options": [
+                                409,
+                                177,
+                                185,
+                                559
+                            ]
+                        },
+                        {
+                            "answer": 514,
+                            "options": [
+                                177,
+                                206,
+                                514,
+                                397
+                            ]
+                        },
+                        {
+                            "answer": 30,
+                            "options": [
+                                206,
+                                24,
+                                185,
+                                30
+                            ]
+                        },
+                        {
+                            "answer": 481,
+                            "options": [
+                                24,
+                                68,
+                                481,
+                                89
+                            ]
+                        },
+                        {
+                            "answer": 507,
+                            "options": [
+                                507,
+                                486,
+                                477,
+                                192
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.zombie",
+                            "options": [
+                                "Logos.rockstar",
+                                "Logos.ini",
+                                "Logos.japt",
+                                "Logos.zombie"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.watson",
+                            "options": [
+                                "Logos.ini",
+                                "Logos.jupyterNotebook",
+                                "Logos.watson",
+                                "Logos.redcode"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.chef",
+                            "options": [
+                                "Logos.jupyterNotebook",
+                                "Logos.brainfuck",
+                                "Logos.japt",
+                                "Logos.chef"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.trumpScript",
+                            "options": [
+                                "Logos.brainfuck",
+                                "Logos.dots",
+                                "Logos.trumpScript",
+                                "Logos.emojiCode"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vigil",
+                            "options": [
+                                "Logos.vigil",
+                                "Logos.turtle",
+                                "Logos.thue",
+                                "Logos.jelly"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "62",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 397,
+                            "options": [
+                                24,
+                                149,
+                                89,
+                                397
+                            ]
+                        },
+                        {
+                            "answer": 198,
+                            "options": [
+                                347,
+                                206,
+                                514,
+                                198
+                            ]
+                        },
+                        {
+                            "answer": 29,
+                            "options": [
+                                507,
+                                332,
+                                528,
+                                29
+                            ]
+                        },
+                        {
+                            "answer": 430,
+                            "options": [
+                                559,
+                                462,
+                                430,
+                                192
+                            ]
+                        },
+                        {
+                            "answer": 507,
+                            "options": [
+                                347,
+                                507,
+                                177,
+                                3
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.redcode",
+                            "options": [
+                                "Logos.brainfuck",
+                                "Logos.haifu",
+                                "Logos.emojiCode",
+                                "Logos.redcode"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.jsFuck",
+                            "options": [
+                                "Logos.piet",
+                                "Logos.jupyterNotebook",
+                                "Logos.watson",
+                                "Logos.jsFuck"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.charcoal",
+                            "options": [
+                                "Logos.vigil",
+                                "Logos.oz",
+                                "Logos.worldLang",
+                                "Logos.charcoal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.shakespeare",
+                            "options": [
+                                "Logos.zombie",
+                                "Logos.suzy",
+                                "Logos.shakespeare",
+                                "Logos.jelly"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vigil",
+                            "options": [
+                                "Logos.piet",
+                                "Logos.vigil",
+                                "Logos.ini",
+                                "Logos.ajsone"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "63",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 219,
+                            "options": [
+                                198,
+                                219,
+                                332,
+                                193
+                            ]
+                        },
+                        {
+                            "answer": 495,
+                            "options": [
+                                31,
+                                29,
+                                495,
+                                462
+                            ]
+                        },
+                        {
+                            "answer": 185,
+                            "options": [
+                                185,
+                                149,
+                                206,
+                                29
+                            ]
+                        },
+                        {
+                            "answer": 198,
+                            "options": [
+                                193,
+                                198,
+                                22,
+                                486
+                            ]
+                        },
+                        {
+                            "answer": 247,
+                            "options": [
+                                247,
+                                29,
+                                523,
+                                524
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.legit",
+                            "options": [
+                                "Logos.jsFuck",
+                                "Logos.legit",
+                                "Logos.oz",
+                                "Logos.jellyScript"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unlambda",
+                            "options": [
+                                "Logos.chicken",
+                                "Logos.charcoal",
+                                "Logos.unlambda",
+                                "Logos.suzy"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.japt",
+                            "options": [
+                                "Logos.japt",
+                                "Logos.haifu",
+                                "Logos.jupyterNotebook",
+                                "Logos.charcoal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.jsFuck",
+                            "options": [
+                                "Logos.jellyScript",
+                                "Logos.jsFuck",
+                                "Logos.befunge",
+                                "Logos.turtle"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.malboge",
+                            "options": [
+                                "Logos.malboge",
+                                "Logos.charcoal",
+                                "Logos.whenever",
+                                "Logos.whitespace"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "64",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 347,
+                            "options": [
+                                3,
+                                347,
+                                528,
+                                206
+                            ]
+                        },
+                        {
+                            "answer": 219,
+                            "options": [
+                                409,
+                                219,
+                                528,
+                                491
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                102,
+                                332,
+                                198,
+                                24
+                            ]
+                        },
+                        {
+                            "answer": 24,
+                            "options": [
+                                235,
+                                102,
+                                524,
+                                24
+                            ]
+                        },
+                        {
+                            "answer": 495,
+                            "options": [
+                                30,
+                                397,
+                                495,
+                                22
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.piet",
+                            "options": [
+                                "Logos.ajsone",
+                                "Logos.piet",
+                                "Logos.worldLang",
+                                "Logos.jupyterNotebook"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.legit",
+                            "options": [
+                                "Logos.rockstar",
+                                "Logos.legit",
+                                "Logos.worldLang",
+                                "Logos.unary"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.oz",
+                            "options": [
+                                "Logos.folders",
+                                "Logos.oz",
+                                "Logos.jsFuck",
+                                "Logos.brainfuck"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.brainfuck",
+                            "options": [
+                                "Logos.lolcode",
+                                "Logos.folders",
+                                "Logos.whitespace",
+                                "Logos.brainfuck"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.unlambda",
+                            "options": [
+                                "Logos.chef",
+                                "Logos.redcode",
+                                "Logos.unlambda",
+                                "Logos.befunge"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "65",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 559,
+                            "options": [
+                                559,
+                                198,
+                                112,
+                                462
+                            ]
+                        },
+                        {
+                            "answer": 31,
+                            "options": [
+                                96,
+                                31,
+                                102,
+                                235
+                            ]
+                        },
+                        {
+                            "answer": 507,
+                            "options": [
+                                177,
+                                24,
+                                507,
+                                29
+                            ]
+                        },
+                        {
+                            "answer": 177,
+                            "options": [
+                                96,
+                                89,
+                                514,
+                                177
+                            ]
+                        },
+                        {
+                            "answer": 185,
+                            "options": [
+                                185,
+                                219,
+                                29,
+                                462
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.zombie",
+                            "options": [
+                                "Logos.zombie",
+                                "Logos.jsFuck",
+                                "Logos.fugue",
+                                "Logos.suzy"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.chicken",
+                            "options": [
+                                "Logos.fetLang",
+                                "Logos.chicken",
+                                "Logos.folders",
+                                "Logos.lolcode"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.vigil",
+                            "options": [
+                                "Logos.ini",
+                                "Logos.brainfuck",
+                                "Logos.vigil",
+                                "Logos.charcoal"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.ini",
+                            "options": [
+                                "Logos.fetLang",
+                                "Logos.emojiCode",
+                                "Logos.watson",
+                                "Logos.ini"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.japt",
+                            "options": [
+                                "Logos.japt",
+                                "Logos.legit",
+                                "Logos.charcoal",
+                                "Logos.suzy"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "66",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 495,
+                            "options": [
+                                96,
+                                495,
+                                430,
+                                247
+                            ]
+                        },
+                        {
+                            "answer": 198,
+                            "options": [
+                                96,
+                                192,
+                                198,
+                                524
+                            ]
+                        },
+                        {
+                            "answer": 559,
+                            "options": [
+                                107,
+                                177,
+                                559,
+                                504
+                            ]
+                        },
+                        {
+                            "answer": 430,
+                            "options": [
+                                22,
+                                491,
+                                409,
+                                430
+                            ]
+                        },
+                        {
+                            "answer": 481,
+                            "options": [
+                                22,
+                                3,
+                                107,
+                                481
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.unlambda",
+                            "options": [
+                                "Logos.fetLang",
+                                "Logos.unlambda",
+                                "Logos.shakespeare",
+                                "Logos.malboge"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.jsFuck",
+                            "options": [
+                                "Logos.fetLang",
+                                "Logos.jelly",
+                                "Logos.jsFuck",
+                                "Logos.whitespace"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.zombie",
+                            "options": [
+                                "Logos.freakC",
+                                "Logos.ini",
+                                "Logos.zombie",
+                                "Logos.velato"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.shakespeare",
+                            "options": [
+                                "Logos.befunge",
+                                "Logos.unary",
+                                "Logos.rockstar",
+                                "Logos.shakespeare"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.trumpScript",
+                            "options": [
+                                "Logos.befunge",
+                                "Logos.ajsone",
+                                "Logos.freakC",
+                                "Logos.trumpScript"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "67",
+                    "description": {
+                        "en": "Description",
+                        "pt": "Description"
+                    },
+                    "starsRequiredToUnlockLevel": 0,
+                    "game": [
+                        {
+                            "answer": 3,
+                            "options": [
+                                235,
+                                193,
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "answer": 89,
+                            "options": [
+                                29,
+                                177,
+                                89,
+                                102
+                            ]
+                        },
+                        {
+                            "answer": 96,
+                            "options": [
+                                149,
+                                491,
+                                96,
+                                24
+                            ]
+                        },
+                        {
+                            "answer": 24,
+                            "options": [
+                                507,
+                                24,
+                                192,
+                                112
+                            ]
+                        },
+                        {
+                            "answer": 332,
+                            "options": [
+                                192,
+                                198,
+                                477,
+                                332
+                            ]
+                        }
+                    ],
+                    "gameStringRepresentation": [
+                        {
+                            "answer": "Logos.ajsone",
+                            "options": [
+                                "Logos.lolcode",
+                                "Logos.jellyScript",
+                                "Logos.ajsone",
+                                "Logos.chef"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.emojiCode",
+                            "options": [
+                                "Logos.charcoal",
+                                "Logos.ini",
+                                "Logos.emojiCode",
+                                "Logos.folders"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.fetLang",
+                            "options": [
+                                "Logos.haifu",
+                                "Logos.unary",
+                                "Logos.fetLang",
+                                "Logos.brainfuck"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.brainfuck",
+                            "options": [
+                                "Logos.vigil",
+                                "Logos.brainfuck",
+                                "Logos.jelly",
+                                "Logos.fugue"
+                            ]
+                        },
+                        {
+                            "answer": "Logos.oz",
+                            "options": [
+                                "Logos.jelly",
+                                "Logos.jsFuck",
+                                "Logos.thue",
+                                "Logos.oz"
                             ]
                         }
                     ]
