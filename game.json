@@ -213,7 +213,8 @@
         },
         {
             "id": 49,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/csound.png"
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/csound.png",
+            "name": "Csound"
         },
         {
             "id": 50,
@@ -740,7 +741,8 @@
         },
         {
             "id": 177,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ini.png"
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ini.png",
+            "name": "INI"
         },
         {
             "id": 178,
@@ -864,7 +866,8 @@
         },
         {
             "id": 206,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/jupyterNotebook.png"
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/jupyterNotebook.png",
+            "name": "Jupyter Notebook"
         },
         {
             "id": 207,
@@ -1379,7 +1382,8 @@
         },
         {
             "id": 332,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/oz.png"
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/oz.png",
+            "name": "Oz"
         },
         {
             "id": 333,
@@ -2778,7 +2782,7 @@
                         {
                             "answer": "Logos.cPlusPlus",
                             "options": [
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.cPlusPlus",
                                 "Logos.tsx",
                                 "Logos.powerShell"
@@ -3087,7 +3091,7 @@
                                 "Logos.svelte",
                                 "Logos.csound",
                                 "Logos.objectiveC",
-                                "Logos.tsv"
+                                "Logos.dart"
                             ]
                         }
                     ]
@@ -3769,9 +3773,9 @@
                             ]
                         },
                         {
-                            "answer": "Logos.tsv",
+                            "answer": "Logos.dart",
                             "options": [
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.swift",
                                 "Logos.prolog",
                                 "Logos.cPlusPlus"
@@ -4528,7 +4532,7 @@
                             "answer": "Logos.newLisp",
                             "options": [
                                 "Logos.assembly",
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.newLisp",
                                 "Logos.commonLisp"
                             ]
@@ -4726,12 +4730,12 @@
                             ]
                         },
                         {
-                            "answer": "Logos.tsv",
+                            "answer": "Logos.dart",
                             "options": [
                                 "Logos.typeScript",
                                 "Logos.racket",
                                 "Logos.altiumDesigner",
-                                "Logos.tsv"
+                                "Logos.dart"
                             ]
                         },
                         {
@@ -4976,7 +4980,7 @@
                             "options": [
                                 "Logos.go",
                                 "Logos.cobol",
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.java"
                             ]
                         }
@@ -5121,7 +5125,7 @@
                         {
                             "answer": "Logos.erlang",
                             "options": [
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.erlang",
                                 "Logos.shell",
                                 "Logos.elixir"
@@ -5605,7 +5609,7 @@
                             "answer": "Logos.netLogo",
                             "options": [
                                 "Logos.commonLisp",
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.netLogo",
                                 "Logos.plsql"
                             ]
@@ -5703,7 +5707,7 @@
                         {
                             "answer": "Logos.fortran",
                             "options": [
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.fortran",
                                 "Logos.zig",
                                 "Logos.vue"
@@ -5895,19 +5899,19 @@
                         {
                             "answer": "Logos.csound",
                             "options": [
-                                "Logos.tsv",
+                                "Logos.dart",
                                 "Logos.vue",
                                 "Logos.csound",
                                 "Logos.kotlin"
                             ]
                         },
                         {
-                            "answer": "Logos.tsv",
+                            "answer": "Logos.dart",
                             "options": [
                                 "Logos.cobol",
                                 "Logos.picoLisp",
                                 "Logos.typeScript",
-                                "Logos.tsv"
+                                "Logos.dart"
                             ]
                         },
                         {
