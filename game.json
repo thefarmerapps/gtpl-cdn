@@ -6031,7 +6031,7 @@
                         "en": "Things are about to get crazy!",
                         "pt": "Things are about to get crazy!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 31,
                     "game": [
                         {
                             "answer": 168,
@@ -6133,7 +6133,7 @@
                         "en": "Are you an Emacs or Vim user?",
                         "pt": "Are you an Emacs or Vim user?"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 31,
                     "game": [
                         {
                             "answer": 509,
@@ -6235,7 +6235,7 @@
                         "en": "Do you still recognize these?",
                         "pt": "Do you still recognize these?"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 33,
                     "game": [
                         {
                             "answer": 200,
@@ -6337,7 +6337,7 @@
                         "en": "Back in the day we used to play Pokemon in calculators!",
                         "pt": "Back in the day we used to play Pokemon in calculators!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 34,
                     "game": [
                         {
                             "answer": 503,
@@ -6439,7 +6439,7 @@
                         "en": "0xFF0000",
                         "pt": "0xFF0000"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 35,
                     "game": [
                         {
                             "answer": 500,
@@ -6541,7 +6541,7 @@
                         "en": "Draw +4",
                         "pt": "Draw +4"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 35,
                     "game": [
                         {
                             "answer": 467,
@@ -6643,7 +6643,7 @@
                         "en": "You are a champion if you got up to here",
                         "pt": "You are a champion if you got up to here"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 35,
                     "game": [
                         {
                             "answer": 200,
@@ -6745,7 +6745,7 @@
                         "en": "Parallel Programming is awesome!",
                         "pt": "Parallel Programming is awesome!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 35,
                     "game": [
                         {
                             "answer": 496,
@@ -6847,7 +6847,7 @@
                         "en": "Everyone in the office lost completing this level",
                         "pt": "Everyone in the office lost completing this level"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 36,
                     "game": [
                         {
                             "answer": 497,
@@ -6949,7 +6949,7 @@
                         "en": "Formal verification. Lamport is a king!",
                         "pt": "Formal verification. Lamport is a king!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 38,
                     "game": [
                         {
                             "answer": 492,
@@ -7051,7 +7051,7 @@
                         "en": "Anna secretly loves Josh",
                         "pt": "Anna secretly loves Josh"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 38,
                     "game": [
                         {
                             "answer": 392,
@@ -7153,7 +7153,7 @@
                         "en": "Nothing's impossible",
                         "pt": "Nothing's impossible"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 40,
                     "game": [
                         {
                             "answer": 501,
@@ -7255,7 +7255,7 @@
                         "en": "Once More 'Round the Sun",
                         "pt": "Once More 'Round the Sun"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 41,
                     "game": [
                         {
                             "answer": 392,
@@ -7357,7 +7357,7 @@
                         "en": "And also Blood Mountain",
                         "pt": "And also Blood Mountain"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 42,
                     "game": [
                         {
                             "answer": 392,
@@ -7459,7 +7459,7 @@
                         "en": "Aren't you confused yet??!",
                         "pt": "Aren't you confused yet??!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 43,
                     "game": [
                         {
                             "answer": 394,
@@ -7561,7 +7561,7 @@
                         "en": "Boston",
                         "pt": "Boston"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 45,
                     "game": [
                         {
                             "answer": 168,
@@ -7663,7 +7663,7 @@
                         "en": "AHHHH a spider!",
                         "pt": "AHHHH a spider!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 45,
                     "game": [
                         {
                             "answer": 498,
@@ -7765,7 +7765,7 @@
                         "en": "Off with the jokes because...",
                         "pt": "Off with the jokes because..."
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 45,
                     "game": [
                         {
                             "answer": 336,
@@ -7867,7 +7867,7 @@
                         "en": "... the 10 logo challenge is here!",
                         "pt": "... the 10 logo challenge is here!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 50,
                     "game": [
                         {
                             "answer": 498,
@@ -8059,7 +8059,7 @@
                         "en": "I dare you to complete this level in less than a minute",
                         "pt": "I dare you to complete this level in less than a minute"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 51,
                     "game": [
                         {
                             "answer": 466,
@@ -8251,7 +8251,7 @@
                         "en": "Just imagine that the 15 logo challenge is right around the corner",
                         "pt": "Just imagine that the 15 logo challenge is right around the corner"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 51,
                     "game": [
                         {
                             "answer": 485,
@@ -8443,7 +8443,7 @@
                         "en": "Subscribe to PewDiePie on Youtube",
                         "pt": "Subscribe to PewDiePie on Youtube"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 52,
                     "game": [
                         {
                             "answer": 480,
@@ -8635,7 +8635,7 @@
                         "en": "And also Mr Beast because he's a badass in helping others",
                         "pt": "And also Mr Beast because he's a badass in helping others"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 53,
                     "game": [
                         {
                             "answer": 200,
@@ -8827,7 +8827,7 @@
                         "en": "Level 50!!!",
                         "pt": "Level 50!!!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 54,
                     "game": [
                         {
                             "answer": 473,
@@ -9019,7 +9019,7 @@
                         "en": "Thank you for playing up until this level <3",
                         "pt": "Thank you for playing up until this level <3"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 55,
                     "game": [
                         {
                             "answer": 335,
@@ -9211,7 +9211,7 @@
                         "en": "We admire your courage! Just one more until the HARD levels!!!",
                         "pt": "We admire your courage! Just one more until the HARD levels!!!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 55,
                     "game": [
                         {
                             "answer": 387,
@@ -9408,7 +9408,7 @@
                         "en": "Esoteric languages... Yes we are also scared of these levels",
                         "pt": "Esoteric languages... Yes we are also scared of these levels"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 55,
                     "game": [
                         {
                             "answer": 524,
@@ -9510,7 +9510,7 @@
                         "en": "There's only 5 logos per levels because of the difficulty of completing these...",
                         "pt": "There's only 5 logos per levels because of the difficulty of completing these..."
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 55,
                     "game": [
                         {
                             "answer": 24,
@@ -9612,7 +9612,7 @@
                         "en": "There is a programming language for S3X talk... Can you imagine?!",
                         "pt": "There is a programming language for S3X talk... Can you imagine?!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 60,
                     "game": [
                         {
                             "answer": 514,
@@ -9714,7 +9714,7 @@
                         "en": "Kawaii :3",
                         "pt": "Kawaii :3"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 61,
                     "game": [
                         {
                             "answer": 514,
@@ -9816,7 +9816,7 @@
                         "en": "Did you know that it took us 2 weeks to design these levels? Thats 80 hours of work!",
                         "pt": "Did you know that it took us 2 weeks to design these levels? Thats 80 hours of work!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 62,
                     "game": [
                         {
                             "answer": 528,
@@ -9918,7 +9918,7 @@
                         "en": "A programming language for music theorists",
                         "pt": "A programming language for music theorists"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 63,
                     "game": [
                         {
                             "answer": 192,
@@ -10020,7 +10020,7 @@
                         "en": "To be, or note to be: that's the question!",
                         "pt": "To be, or note to be: that's the question!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 64,
                     "game": [
                         {
                             "answer": 507,
@@ -10122,7 +10122,7 @@
                         "en": "Can't believe there's only 7 levels left, you are a madman",
                         "pt": "Can't believe there's only 7 levels left, you are a madman"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 65,
                     "game": [
                         {
                             "answer": 96,
@@ -10224,7 +10224,7 @@
                         "en": "You didn't cheat getting up here, right?",
                         "pt": "You didn't cheat getting up here, right?"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 66,
                     "game": [
                         {
                             "answer": 559,
@@ -10326,7 +10326,7 @@
                         "en": "I hope not!",
                         "pt": "I hope not!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 67,
                     "game": [
                         {
                             "answer": 397,
@@ -10428,7 +10428,7 @@
                         "en": "We are entering the end game!!!",
                         "pt": "We are entering the end game!!!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 68,
                     "game": [
                         {
                             "answer": 219,
@@ -10530,7 +10530,7 @@
                         "en": "It f#cks with your brain!",
                         "pt": "It f#cks with your brain!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 69,
                     "game": [
                         {
                             "answer": 347,
@@ -10632,7 +10632,7 @@
                         "en": "Only 3 levels left!!!!!",
                         "pt": "Only 3 levels left!!!!!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 70,
                     "game": [
                         {
                             "answer": 559,
@@ -10734,7 +10734,7 @@
                         "en": "Two levels left!!!",
                         "pt": "Two levels left!!!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 71,
                     "game": [
                         {
                             "answer": 495,
@@ -10836,7 +10836,7 @@
                         "en": "That's it. You complete it and you're a champion!",
                         "pt": "That's it. You complete it and you're a champion!"
                     },
-                    "starsRequiredToUnlockLevel": 0,
+                    "starsRequiredToUnlockLevel": 75,
                     "game": [
                         {
                             "answer": 3,
