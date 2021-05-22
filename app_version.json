@@ -1,9 +1,9 @@
 {
-    "major": 0,
+    "major": 1,
     "minor": 0,
     "patch": 0,
     "updatePageUrl": {
-        "android": "https://google.com",
-        "iOS": "https://google.com"
+        "android": "https://play.google.com/store/apps/details?id=com.guackamolly.guesstheprogramminglanguage.app",
+        "iOS": "https://apps.apple.com/us/app/guess-the-programming-language/id1567794841"
     }
 }
