@@ -650,7 +650,8 @@
         },
         {
             "id": 154,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell.png"
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell.png",
+            "name": "Haskell"
         },
         {
             "id": 155,
@@ -2381,49 +2382,404 @@
     ],
     "codeSnippets": [
         {
+            "id": "cPlusPlus_1",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_1.png"
+        },
+        {
+            "id": "cPlusPlus_10",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_10.png"
+        },
+        {
+            "id": "cPlusPlus_11",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_11.png"
+        },
+        {
+            "id": "cPlusPlus_12",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_12.png"
+        },
+        {
+            "id": "cPlusPlus_2",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_2.png"
+        },
+        {
+            "id": "cPlusPlus_5",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_5.png"
+        },
+        {
+            "id": "cPlusPlus_6",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_6.png"
+        },
+        {
+            "id": "cPlusPlus_7",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_7.png"
+        },
+        {
+            "id": "cPlusPlus_8",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_8.png"
+        },
+        {
+            "id": "cPlusPlus_9",
+            "logoId": 46,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cPlusPlus_9.png"
+        },
+        {
+            "id": "cSharp_1",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_1.png"
+        },
+        {
+            "id": "cSharp_10",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_10.png"
+        },
+        {
+            "id": "cSharp_2",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_2.png"
+        },
+        {
+            "id": "cSharp_3",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_3.png"
+        },
+        {
+            "id": "cSharp_4",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_4.png"
+        },
+        {
+            "id": "cSharp_5",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_5.png"
+        },
+        {
+            "id": "cSharp_6",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_6.png"
+        },
+        {
+            "id": "cSharp_7",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_7.png"
+        },
+        {
+            "id": "cSharp_8",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_8.png"
+        },
+        {
+            "id": "cSharp_9",
+            "logoId": 48,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_9.png"
+        },
+        {
+            "id": "c_1",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_1.png"
+        },
+        {
+            "id": "c_10",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_10.png"
+        },
+        {
+            "id": "c_11",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_11.png"
+        },
+        {
+            "id": "c_4",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_4.png"
+        },
+        {
+            "id": "c_5",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_5.png"
+        },
+        {
+            "id": "c_6",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_6.png"
+        },
+        {
+            "id": "c_7",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_7.png"
+        },
+        {
+            "id": "c_8",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_8.png"
+        },
+        {
+            "id": "c_9",
+            "logoId": 26,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/c_9.png"
+        },
+        {
+            "id": "dart_10",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_10.png"
+        },
+        {
+            "id": "dart_11",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_11.png"
+        },
+        {
+            "id": "dart_12",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_12.png"
+        },
+        {
+            "id": "dart_2",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_2.png"
+        },
+        {
+            "id": "dart_4",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_4.png"
+        },
+        {
+            "id": "dart_5",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_5.png"
+        },
+        {
+            "id": "dart_6",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_6.png"
+        },
+        {
+            "id": "dart_7",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_7.png"
+        },
+        {
+            "id": "dart_8",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_8.png"
+        },
+        {
+            "id": "dart_9",
+            "logoId": 55,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/dart_9.png"
+        },
+        {
+            "id": "erlang_1",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_1.png"
+        },
+        {
+            "id": "erlang_10",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_10.png"
+        },
+        {
+            "id": "erlang_11",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_11.png"
+        },
+        {
+            "id": "erlang_12",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_12.png"
+        },
+        {
+            "id": "erlang_2",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_2.png"
+        },
+        {
+            "id": "erlang_5",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_5.png"
+        },
+        {
+            "id": "erlang_6",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_6.png"
+        },
+        {
+            "id": "erlang_7",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_7.png"
+        },
+        {
+            "id": "erlang_8",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_8.png"
+        },
+        {
+            "id": "erlang_9",
+            "logoId": 91,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/erlang_9.png"
+        },
+        {
+            "id": "go_1",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_1.png"
+        },
+        {
+            "id": "go_10",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_10.png"
+        },
+        {
+            "id": "go_11",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_11.png"
+        },
+        {
+            "id": "go_12",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_12.png"
+        },
+        {
+            "id": "go_2",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_2.png"
+        },
+        {
+            "id": "go_5",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_5.png"
+        },
+        {
+            "id": "go_6",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_6.png"
+        },
+        {
+            "id": "go_7",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_7.png"
+        },
+        {
+            "id": "go_8",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_8.png"
+        },
+        {
+            "id": "go_9",
+            "logoId": 137,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/go_9.png"
+        },
+        {
+            "id": "groovy_10",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_10.png"
+        },
+        {
+            "id": "groovy_11",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_11.png"
+        },
+        {
+            "id": "groovy_12",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_12.png"
+        },
+        {
+            "id": "groovy_2",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_2.png"
+        },
+        {
+            "id": "groovy_3",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_3.png"
+        },
+        {
+            "id": "groovy_5",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_5.png"
+        },
+        {
+            "id": "groovy_6",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_6.png"
+        },
+        {
+            "id": "groovy_7",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_7.png"
+        },
+        {
+            "id": "groovy_8",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_8.png"
+        },
+        {
+            "id": "groovy_9",
+            "logoId": 146,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/groovy_9.png"
+        },
+        {
+            "id": "haskell_10",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_10.png"
+        },
+        {
+            "id": "haskell_11",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_11.png"
+        },
+        {
+            "id": "haskell_12",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_12.png"
+        },
+        {
+            "id": "haskell_2",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_2.png"
+        },
+        {
+            "id": "haskell_4",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_4.png"
+        },
+        {
+            "id": "haskell_5",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_5.png"
+        },
+        {
+            "id": "haskell_6",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_6.png"
+        },
+        {
+            "id": "haskell_7",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_7.png"
+        },
+        {
+            "id": "haskell_8",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_8.png"
+        },
+        {
+            "id": "haskell_9",
+            "logoId": 154,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/haskell_9.png"
+        },
+        {
             "id": "java_1",
             "logoId": 187,
             "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_1.png"
-        },
-        {
-            "id": "java_2",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_2.png"
-        },
-        {
-            "id": "java_3",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_3.png"
-        },
-        {
-            "id": "java_4",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_4.png"
-        },
-        {
-            "id": "java_5",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_5.png"
-        },
-        {
-            "id": "java_6",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_6.png"
-        },
-        {
-            "id": "java_7",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_7.png"
-        },
-        {
-            "id": "java_8",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_8.png"
-        },
-        {
-            "id": "java_9",
-            "logoId": 187,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_9.png"
         },
         {
             "id": "java_10",
@@ -2476,59 +2832,254 @@
             "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_19.png"
         },
         {
+            "id": "java_2",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_2.png"
+        },
+        {
             "id": "java_20",
             "logoId": 187,
             "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_20.png"
         },
         {
-            "id": "cSharp_1",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_1.png"
+            "id": "java_3",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_3.png"
         },
         {
-            "id": "cSharp_2",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_2.png"
+            "id": "java_4",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_4.png"
         },
         {
-            "id": "cSharp_3",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_3.png"
+            "id": "java_5",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_5.png"
         },
         {
-            "id": "cSharp_4",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_4.png"
+            "id": "java_6",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_6.png"
         },
         {
-            "id": "cSharp_5",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_5.png"
+            "id": "java_7",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_7.png"
         },
         {
-            "id": "cSharp_6",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_6.png"
+            "id": "java_8",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_8.png"
         },
         {
-            "id": "cSharp_7",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_7.png"
+            "id": "java_9",
+            "logoId": 187,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/java_9.png"
         },
         {
-            "id": "cSharp_8",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_8.png"
+            "id": "javascript_10",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_10.png"
         },
         {
-            "id": "cSharp_9",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_9.png"
+            "id": "javascript_11",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_11.png"
         },
         {
-            "id": "cSharp_10",
-            "logoId": 48,
-            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/cSharp_10.png"
+            "id": "javascript_12",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_12.png"
+        },
+        {
+            "id": "javascript_3",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_3.png"
+        },
+        {
+            "id": "javascript_4",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_4.png"
+        },
+        {
+            "id": "javascript_5",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_5.png"
+        },
+        {
+            "id": "javascript_6",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_6.png"
+        },
+        {
+            "id": "javascript_7",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_7.png"
+        },
+        {
+            "id": "javascript_8",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_8.png"
+        },
+        {
+            "id": "javascript_9",
+            "logoId": 189,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/javascript_9.png"
+        },
+        {
+            "id": "python_10",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_10.png"
+        },
+        {
+            "id": "python_11",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_11.png"
+        },
+        {
+            "id": "python_12",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_12.png"
+        },
+        {
+            "id": "python_3",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_3.png"
+        },
+        {
+            "id": "python_4",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_4.png"
+        },
+        {
+            "id": "python_5",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_5.png"
+        },
+        {
+            "id": "python_6",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_6.png"
+        },
+        {
+            "id": "python_7",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_7.png"
+        },
+        {
+            "id": "python_8",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_8.png"
+        },
+        {
+            "id": "python_9",
+            "logoId": 374,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/python_9.png"
+        },
+        {
+            "id": "ruby_1",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_1.png"
+        },
+        {
+            "id": "ruby_10",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_10.png"
+        },
+        {
+            "id": "ruby_11",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_11.png"
+        },
+        {
+            "id": "ruby_12",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_12.png"
+        },
+        {
+            "id": "ruby_13",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_13.png"
+        },
+        {
+            "id": "ruby_4",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_4.png"
+        },
+        {
+            "id": "ruby_5",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_5.png"
+        },
+        {
+            "id": "ruby_6",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_6.png"
+        },
+        {
+            "id": "ruby_7",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_7.png"
+        },
+        {
+            "id": "ruby_8",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_8.png"
+        },
+        {
+            "id": "ruby_9",
+            "logoId": 415,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/ruby_9.png"
+        },
+        {
+            "id": "typescript_1",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_1.png"
+        },
+        {
+            "id": "typescript_10",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_10.png"
+        },
+        {
+            "id": "typescript_11",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_11.png"
+        },
+        {
+            "id": "typescript_12",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_12.png"
+        },
+        {
+            "id": "typescript_4",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_4.png"
+        },
+        {
+            "id": "typescript_5",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_5.png"
+        },
+        {
+            "id": "typescript_6",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_6.png"
+        },
+        {
+            "id": "typescript_7",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_7.png"
+        },
+        {
+            "id": "typescript_8",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_8.png"
+        },
+        {
+            "id": "typescript_9",
+            "logoId": 490,
+            "url": "https://raw.githubusercontent.com/thefarmerapps/logos-cdn/main/typescript_9.png"
         }
     ],
     "logoWizardGameMode": {
@@ -11125,6 +11676,7 @@
             137,
             146,
             149,
+            154,
             177,
             185,
             187,
